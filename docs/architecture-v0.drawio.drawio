@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="WGExSH1Y-if5NMLI7xcW">
+    <mxGraphModel dx="422" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=light-dark(#000000,#97D077);fontStyle=1;gradientColor=light-dark(#000000,#003300);" value="Api" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontStyle=1" value="Compute" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#cce5ff;strokeColor=light-dark(#36393D,#1744DE);fontStyle=1;gradientColor=light-dark(#000000,#120B24);" value="Frontend" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-8" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endWidth=14;fillColor=#fa6800;strokeColor=#C73500;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="129.5" as="sourcePoint" />
+            <mxPoint x="200" y="129.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-9" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endWidth=14;fillColor=#fa6800;strokeColor=#C73500;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="129.5" as="sourcePoint" />
+            <mxPoint x="520" y="129.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endWidth=14;fillColor=#fa6800;strokeColor=#C73500;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="129.5" as="sourcePoint" />
+            <mxPoint x="360" y="129.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JYT_88Rqc3wi0c1ZfAKW-12" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcccc;strokeColor=light-dark(#FFFFFF,#FF0F1F);gradientColor=light-dark(#000000,#330000);" value="Database" vertex="1">
+          <mxGeometry height="110" width="100" x="540" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
