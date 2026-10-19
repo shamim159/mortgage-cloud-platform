@@ -1,0 +1,4502 @@
+[
+  {
+    "applicant_id": "SYN-0001",
+    "full_name": "Ruth Examplar",
+    "annual_income": 103810,
+    "loan_amount": 334545,
+    "ltv": 0.86,
+    "property_value": 389213,
+    "application_date": "2025-01-05"
+  },
+  {
+    "applicant_id": "SYN-0002",
+    "full_name": "Henry Samplesmith",
+    "annual_income": 49256,
+    "loan_amount": 161514,
+    "ltv": 0.64,
+    "property_value": 254003,
+    "application_date": "2025-04-10"
+  },
+  {
+    "applicant_id": "SYN-0003",
+    "full_name": "Bradley Placeholder",
+    "annual_income": 97397,
+    "loan_amount": 374379,
+    "ltv": 0.61,
+    "property_value": 613305,
+    "application_date": "2026-03-27"
+  },
+  {
+    "applicant_id": "SYN-0004",
+    "full_name": "Sian Placeholder",
+    "annual_income": 50495,
+    "loan_amount": 202521,
+    "ltv": 0.61,
+    "property_value": 332390,
+    "application_date": "2026-03-30"
+  },
+  {
+    "applicant_id": "SYN-0005",
+    "full_name": "Janice Examplar",
+    "annual_income": 113850,
+    "loan_amount": 489529,
+    "ltv": 0.79,
+    "property_value": 619085,
+    "application_date": "2024-12-18"
+  },
+  {
+    "applicant_id": "SYN-0006",
+    "full_name": "Mary Testwell",
+    "annual_income": 78878,
+    "loan_amount": 329594,
+    "ltv": 0.88,
+    "property_value": 373139,
+    "application_date": "2024-11-09"
+  },
+  {
+    "applicant_id": "SYN-0007",
+    "full_name": "Colin Pretendley",
+    "annual_income": 119458,
+    "loan_amount": 550897,
+    "ltv": 0.84,
+    "property_value": 652452,
+    "application_date": "2025-03-22"
+  },
+  {
+    "applicant_id": "SYN-0008",
+    "full_name": "Leanne Pretendley",
+    "annual_income": 56421,
+    "loan_amount": 186808,
+    "ltv": 0.94,
+    "property_value": 199789,
+    "application_date": "2025-12-21"
+  },
+  {
+    "applicant_id": "SYN-0009",
+    "full_name": "Chelsea Fictworth",
+    "annual_income": 33396,
+    "loan_amount": 106383,
+    "ltv": 0.63,
+    "property_value": 167836,
+    "application_date": "2025-03-08"
+  },
+  {
+    "applicant_id": "SYN-0010",
+    "full_name": "Francesca Sandboxe",
+    "annual_income": 99131,
+    "loan_amount": 349837,
+    "ltv": 0.62,
+    "property_value": 568649,
+    "application_date": "2026-03-02"
+  },
+  {
+    "applicant_id": "SYN-0011",
+    "full_name": "Samantha Samplesmith",
+    "annual_income": 90284,
+    "loan_amount": 293392,
+    "ltv": 0.92,
+    "property_value": 317936,
+    "application_date": "2025-03-24"
+  },
+  {
+    "applicant_id": "SYN-0012",
+    "full_name": "Joan Fictworth",
+    "annual_income": 92357,
+    "loan_amount": 331225,
+    "ltv": 0.82,
+    "property_value": 403921,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0013",
+    "full_name": "Thomas Examplar",
+    "annual_income": 95674,
+    "loan_amount": 323816,
+    "ltv": 0.62,
+    "property_value": 518650,
+    "application_date": "2026-04-12"
+  },
+  {
+    "applicant_id": "SYN-0014",
+    "full_name": "Sam Examplar",
+    "annual_income": 121327,
+    "loan_amount": 434202,
+    "ltv": 0.63,
+    "property_value": 691485,
+    "application_date": "2026-02-27"
+  },
+  {
+    "applicant_id": "SYN-0015",
+    "full_name": "Maurice Fictworth",
+    "annual_income": 133571,
+    "loan_amount": 427695,
+    "ltv": 0.7,
+    "property_value": 613367,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0016",
+    "full_name": "Robin Notrealson",
+    "annual_income": 41319,
+    "loan_amount": 154548,
+    "ltv": 0.67,
+    "property_value": 229529,
+    "application_date": "2026-08-31"
+  },
+  {
+    "applicant_id": "SYN-0017",
+    "full_name": "Tom Fakeley",
+    "annual_income": 111988,
+    "loan_amount": 545752,
+    "ltv": 0.83,
+    "property_value": 660068,
+    "application_date": "2024-12-29"
+  },
+  {
+    "applicant_id": "SYN-0018",
+    "full_name": "Jessica Demoman",
+    "annual_income": 90010,
+    "loan_amount": 401287,
+    "ltv": 0.66,
+    "property_value": 610610,
+    "application_date": "2024-12-25"
+  },
+  {
+    "applicant_id": "SYN-0019",
+    "full_name": "Leigh Examplar",
+    "annual_income": 55382,
+    "loan_amount": 275750,
+    "ltv": 0.82,
+    "property_value": 334648,
+    "application_date": "2025-12-22"
+  },
+  {
+    "applicant_id": "SYN-0020",
+    "full_name": "Samuel Mockford",
+    "annual_income": 109733,
+    "loan_amount": 400368,
+    "ltv": 0.87,
+    "property_value": 460771,
+    "application_date": "2026-03-22"
+  },
+  {
+    "applicant_id": "SYN-0021",
+    "full_name": "Paula Demoman",
+    "annual_income": 50021,
+    "loan_amount": 232278,
+    "ltv": 0.88,
+    "property_value": 263424,
+    "application_date": "2025-01-15"
+  },
+  {
+    "applicant_id": "SYN-0022",
+    "full_name": "Gemma Pretendley",
+    "annual_income": 55093,
+    "loan_amount": 172572,
+    "ltv": 0.92,
+    "property_value": 187660,
+    "application_date": "2024-12-13"
+  },
+  {
+    "applicant_id": "SYN-0023",
+    "full_name": "Billy Sandboxe",
+    "annual_income": 47869,
+    "loan_amount": 206357,
+    "ltv": 0.74,
+    "property_value": 279438,
+    "application_date": "2026-06-01"
+  },
+  {
+    "applicant_id": "SYN-0024",
+    "full_name": "Marian Notrealson",
+    "annual_income": 38726,
+    "loan_amount": 136693,
+    "ltv": 0.69,
+    "property_value": 199168,
+    "application_date": "2026-07-11"
+  },
+  {
+    "applicant_id": "SYN-0025",
+    "full_name": "Linda Demoman",
+    "annual_income": 117912,
+    "loan_amount": 491595,
+    "ltv": 0.91,
+    "property_value": 537710,
+    "application_date": "2025-12-03"
+  },
+  {
+    "applicant_id": "SYN-0026",
+    "full_name": "Geraldine Stubbington",
+    "annual_income": 67447,
+    "loan_amount": 231926,
+    "ltv": 0.95,
+    "property_value": 244354,
+    "application_date": "2024-12-06"
+  },
+  {
+    "applicant_id": "SYN-0027",
+    "full_name": "Irene Dummerton",
+    "annual_income": 31915,
+    "loan_amount": 143987,
+    "ltv": 0.9,
+    "property_value": 159740,
+    "application_date": "2025-03-29"
+  },
+  {
+    "applicant_id": "SYN-0028",
+    "full_name": "Gregory Samplesmith",
+    "annual_income": 102240,
+    "loan_amount": 339433,
+    "ltv": 0.84,
+    "property_value": 404970,
+    "application_date": "2026-09-20"
+  },
+  {
+    "applicant_id": "SYN-0029",
+    "full_name": "Donald Notrealson",
+    "annual_income": 70432,
+    "loan_amount": 265052,
+    "ltv": 0.95,
+    "property_value": 279401,
+    "application_date": "2026-06-27"
+  },
+  {
+    "applicant_id": "SYN-0030",
+    "full_name": "Jessica Fakeness",
+    "annual_income": 147281,
+    "loan_amount": 604802,
+    "ltv": 0.93,
+    "property_value": 650429,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0031",
+    "full_name": "Heather Pretendley",
+    "annual_income": 109353,
+    "loan_amount": 521568,
+    "ltv": 0.86,
+    "property_value": 604501,
+    "application_date": "2026-06-04"
+  },
+  {
+    "applicant_id": "SYN-0032",
+    "full_name": "Ben Testwell",
+    "annual_income": 34621,
+    "loan_amount": 124186,
+    "ltv": 0.66,
+    "property_value": 189494,
+    "application_date": "2025-07-08"
+  },
+  {
+    "applicant_id": "SYN-0033",
+    "full_name": "Rhys Fakeley",
+    "annual_income": 145018,
+    "loan_amount": 644487,
+    "ltv": 0.85,
+    "property_value": 756539,
+    "application_date": "2026-02-07"
+  },
+  {
+    "applicant_id": "SYN-0034",
+    "full_name": "Rita Syntheton",
+    "annual_income": 86542,
+    "loan_amount": 417587,
+    "ltv": 0.9,
+    "property_value": 461585,
+    "application_date": "2026-08-16"
+  },
+  {
+    "applicant_id": "SYN-0035",
+    "full_name": "Eileen Dummerton",
+    "annual_income": 130319,
+    "loan_amount": 557492,
+    "ltv": 0.81,
+    "property_value": 685604,
+    "application_date": "2024-12-07"
+  },
+  {
+    "applicant_id": "SYN-0036",
+    "full_name": "Heather Testwell",
+    "annual_income": 69009,
+    "loan_amount": 312267,
+    "ltv": 0.79,
+    "property_value": 395885,
+    "application_date": "2025-02-17"
+  },
+  {
+    "applicant_id": "SYN-0037",
+    "full_name": "Duncan Fictworth",
+    "annual_income": 98504,
+    "loan_amount": 359373,
+    "ltv": 0.61,
+    "property_value": 592226,
+    "application_date": "2025-02-11"
+  },
+  {
+    "applicant_id": "SYN-0038",
+    "full_name": "Jessica Examplar",
+    "annual_income": 135175,
+    "loan_amount": 671907,
+    "ltv": 0.88,
+    "property_value": 761479,
+    "application_date": "2025-04-28"
+  },
+  {
+    "applicant_id": "SYN-0039",
+    "full_name": "Ruth Samplesmith",
+    "annual_income": 27592,
+    "loan_amount": 96068,
+    "ltv": 0.8,
+    "property_value": 120299,
+    "application_date": "2026-02-20"
+  },
+  {
+    "applicant_id": "SYN-0040",
+    "full_name": "Gerald Dummerton",
+    "annual_income": 31226,
+    "loan_amount": 139387,
+    "ltv": 0.89,
+    "property_value": 157391,
+    "application_date": "2026-02-18"
+  },
+  {
+    "applicant_id": "SYN-0041",
+    "full_name": "William Fakeley",
+    "annual_income": 36828,
+    "loan_amount": 159079,
+    "ltv": 0.93,
+    "property_value": 170796,
+    "application_date": "2025-03-30"
+  },
+  {
+    "applicant_id": "SYN-0042",
+    "full_name": "Ryan Placeholder",
+    "annual_income": 54741,
+    "loan_amount": 221994,
+    "ltv": 0.81,
+    "property_value": 273288,
+    "application_date": "2026-05-14"
+  },
+  {
+    "applicant_id": "SYN-0043",
+    "full_name": "Joanne Placeholder",
+    "annual_income": 141754,
+    "loan_amount": 578157,
+    "ltv": 0.86,
+    "property_value": 675831,
+    "application_date": "2025-04-26"
+  },
+  {
+    "applicant_id": "SYN-0044",
+    "full_name": "Phillip Fictworth",
+    "annual_income": 113447,
+    "loan_amount": 411068,
+    "ltv": 0.95,
+    "property_value": 433478,
+    "application_date": "2026-07-31"
+  },
+  {
+    "applicant_id": "SYN-0045",
+    "full_name": "Kirsty Examplar",
+    "annual_income": 77422,
+    "loan_amount": 371566,
+    "ltv": 0.76,
+    "property_value": 490180,
+    "application_date": "2026-07-04"
+  },
+  {
+    "applicant_id": "SYN-0046",
+    "full_name": "Guy Examplar",
+    "annual_income": 49451,
+    "loan_amount": 154685,
+    "ltv": 0.61,
+    "property_value": 254683,
+    "application_date": "2025-03-18"
+  },
+  {
+    "applicant_id": "SYN-0047",
+    "full_name": "Dawn Mockford",
+    "annual_income": 97128,
+    "loan_amount": 334163,
+    "ltv": 0.62,
+    "property_value": 534791,
+    "application_date": "2025-07-27"
+  },
+  {
+    "applicant_id": "SYN-0048",
+    "full_name": "Carly Pretendley",
+    "annual_income": 50007,
+    "loan_amount": 156762,
+    "ltv": 0.61,
+    "property_value": 256569,
+    "application_date": "2025-09-10"
+  },
+  {
+    "applicant_id": "SYN-0049",
+    "full_name": "Arthur Stubbington",
+    "annual_income": 29287,
+    "loan_amount": 117977,
+    "ltv": 0.7,
+    "property_value": 169151,
+    "application_date": "2025-01-25"
+  },
+  {
+    "applicant_id": "SYN-0050",
+    "full_name": "Chelsea Stubbington",
+    "annual_income": 48080,
+    "loan_amount": 196093,
+    "ltv": 0.85,
+    "property_value": 229840,
+    "application_date": "2025-11-06"
+  },
+  {
+    "applicant_id": "SYN-0051",
+    "full_name": "Fiona Placeholder",
+    "annual_income": 51850,
+    "loan_amount": 236915,
+    "ltv": 0.88,
+    "property_value": 268421,
+    "application_date": "2025-08-19"
+  },
+  {
+    "applicant_id": "SYN-0052",
+    "full_name": "Carole Mockingley",
+    "annual_income": 32363,
+    "loan_amount": 103363,
+    "ltv": 0.75,
+    "property_value": 137658,
+    "application_date": "2025-07-29"
+  },
+  {
+    "applicant_id": "SYN-0053",
+    "full_name": "Gerald Fakeness",
+    "annual_income": 73883,
+    "loan_amount": 290659,
+    "ltv": 0.86,
+    "property_value": 339882,
+    "application_date": "2026-09-29"
+  },
+  {
+    "applicant_id": "SYN-0054",
+    "full_name": "Ashley Fakeness",
+    "annual_income": 27944,
+    "loan_amount": 106334,
+    "ltv": 0.72,
+    "property_value": 147942,
+    "application_date": "2025-10-16"
+  },
+  {
+    "applicant_id": "SYN-0055",
+    "full_name": "George Dummerton",
+    "annual_income": 52591,
+    "loan_amount": 177925,
+    "ltv": 0.79,
+    "property_value": 225879,
+    "application_date": "2026-04-09"
+  },
+  {
+    "applicant_id": "SYN-0056",
+    "full_name": "Jamie Samplesmith",
+    "annual_income": 75296,
+    "loan_amount": 253520,
+    "ltv": 0.76,
+    "property_value": 332738,
+    "application_date": "2025-02-03"
+  },
+  {
+    "applicant_id": "SYN-0057",
+    "full_name": "Sam Fakeness",
+    "annual_income": 78082,
+    "loan_amount": 360430,
+    "ltv": 0.9,
+    "property_value": 400661,
+    "application_date": "2026-05-05"
+  },
+  {
+    "applicant_id": "SYN-0058",
+    "full_name": "Mary Testwell",
+    "annual_income": 26630,
+    "loan_amount": 114623,
+    "ltv": 0.79,
+    "property_value": 145238,
+    "application_date": "2025-12-17"
+  },
+  {
+    "applicant_id": "SYN-0059",
+    "full_name": "Emma Examplar",
+    "annual_income": 147008,
+    "loan_amount": 468445,
+    "ltv": 0.86,
+    "property_value": 542340,
+    "application_date": "2025-07-17"
+  },
+  {
+    "applicant_id": "SYN-0060",
+    "full_name": "Jade Demoman",
+    "annual_income": 41798,
+    "loan_amount": 159369,
+    "ltv": 0.77,
+    "property_value": 207383,
+    "application_date": "2025-10-30"
+  },
+  {
+    "applicant_id": "SYN-0061",
+    "full_name": "Andrea Demoman",
+    "annual_income": 138284,
+    "loan_amount": 431069,
+    "ltv": 0.73,
+    "property_value": 588377,
+    "application_date": "2026-06-23"
+  },
+  {
+    "applicant_id": "SYN-0062",
+    "full_name": "Mark Syntheton",
+    "annual_income": 54760,
+    "loan_amount": 265752,
+    "ltv": 0.87,
+    "property_value": 303788,
+    "application_date": "2026-02-15"
+  },
+  {
+    "applicant_id": "SYN-0063",
+    "full_name": "Geoffrey Stubbington",
+    "annual_income": 75444,
+    "loan_amount": 331439,
+    "ltv": 0.86,
+    "property_value": 387341,
+    "application_date": "2026-02-16"
+  },
+  {
+    "applicant_id": "SYN-0064",
+    "full_name": "Paula Mockford",
+    "annual_income": 40289,
+    "loan_amount": 136169,
+    "ltv": 0.68,
+    "property_value": 201375,
+    "application_date": "2026-04-06"
+  },
+  {
+    "applicant_id": "SYN-0065",
+    "full_name": "Jemma Pretendley",
+    "annual_income": 95914,
+    "loan_amount": 428877,
+    "ltv": 0.62,
+    "property_value": 690251,
+    "application_date": "2025-06-17"
+  },
+  {
+    "applicant_id": "SYN-0066",
+    "full_name": "Billy Fakeley",
+    "annual_income": 27492,
+    "loan_amount": 85233,
+    "ltv": 0.77,
+    "property_value": 111143,
+    "application_date": "2025-08-23"
+  },
+  {
+    "applicant_id": "SYN-0067",
+    "full_name": "Sandra Fakeley",
+    "annual_income": 27455,
+    "loan_amount": 135121,
+    "ltv": 0.63,
+    "property_value": 215147,
+    "application_date": "2024-10-20"
+  },
+  {
+    "applicant_id": "SYN-0068",
+    "full_name": "Marcus Examplar",
+    "annual_income": 28981,
+    "loan_amount": 121432,
+    "ltv": 0.84,
+    "property_value": 145197,
+    "application_date": "2026-09-10"
+  },
+  {
+    "applicant_id": "SYN-0069",
+    "full_name": "Antony Examplar",
+    "annual_income": 72923,
+    "loan_amount": 236254,
+    "ltv": 0.91,
+    "property_value": 259164,
+    "application_date": "2025-10-14"
+  },
+  {
+    "applicant_id": "SYN-0070",
+    "full_name": "Kenneth Mockingley",
+    "annual_income": 95880,
+    "loan_amount": 401645,
+    "ltv": 0.82,
+    "property_value": 491740,
+    "application_date": "2026-06-30"
+  },
+  {
+    "applicant_id": "SYN-0071",
+    "full_name": "Joel Notrealson",
+    "annual_income": 106163,
+    "loan_amount": 442418,
+    "ltv": 0.78,
+    "property_value": 565048,
+    "application_date": "2026-06-10"
+  },
+  {
+    "applicant_id": "SYN-0072",
+    "full_name": "Kathleen Notrealson",
+    "annual_income": 46772,
+    "loan_amount": 202965,
+    "ltv": 0.71,
+    "property_value": 285881,
+    "application_date": "2025-12-26"
+  },
+  {
+    "applicant_id": "SYN-0073",
+    "full_name": "Carl Sandboxe",
+    "annual_income": 71876,
+    "loan_amount": 234442,
+    "ltv": 0.83,
+    "property_value": 283854,
+    "application_date": "2025-07-11"
+  },
+  {
+    "applicant_id": "SYN-0074",
+    "full_name": "Shaun Testwell",
+    "annual_income": 61441,
+    "loan_amount": 298483,
+    "ltv": 0.93,
+    "property_value": 321812,
+    "application_date": "2025-11-06"
+  },
+  {
+    "applicant_id": "SYN-0075",
+    "full_name": "Melanie Fakeness",
+    "annual_income": 80068,
+    "loan_amount": 339674,
+    "ltv": 0.8,
+    "property_value": 426165,
+    "application_date": "2026-08-03"
+  },
+  {
+    "applicant_id": "SYN-0076",
+    "full_name": "June Dummerton",
+    "annual_income": 29602,
+    "loan_amount": 120636,
+    "ltv": 0.78,
+    "property_value": 155247,
+    "application_date": "2025-06-06"
+  },
+  {
+    "applicant_id": "SYN-0077",
+    "full_name": "Jack Examplar",
+    "annual_income": 142324,
+    "loan_amount": 526317,
+    "ltv": 0.62,
+    "property_value": 843353,
+    "application_date": "2025-01-05"
+  },
+  {
+    "applicant_id": "SYN-0078",
+    "full_name": "Linda Syntheton",
+    "annual_income": 68434,
+    "loan_amount": 244308,
+    "ltv": 0.75,
+    "property_value": 324289,
+    "application_date": "2026-07-06"
+  },
+  {
+    "applicant_id": "SYN-0079",
+    "full_name": "Mohammad Testwell",
+    "annual_income": 100173,
+    "loan_amount": 497630,
+    "ltv": 0.88,
+    "property_value": 563896,
+    "application_date": "2025-04-06"
+  },
+  {
+    "applicant_id": "SYN-0080",
+    "full_name": "Cameron Fakeness",
+    "annual_income": 107538,
+    "loan_amount": 498353,
+    "ltv": 0.7,
+    "property_value": 707102,
+    "application_date": "2026-07-06"
+  },
+  {
+    "applicant_id": "SYN-0081",
+    "full_name": "Jason Fakeness",
+    "annual_income": 143067,
+    "loan_amount": 680463,
+    "ltv": 0.69,
+    "property_value": 982529,
+    "application_date": "2024-12-18"
+  },
+  {
+    "applicant_id": "SYN-0082",
+    "full_name": "Danielle Placeholder",
+    "annual_income": 117310,
+    "loan_amount": 481727,
+    "ltv": 0.7,
+    "property_value": 692812,
+    "application_date": "2026-05-22"
+  },
+  {
+    "applicant_id": "SYN-0083",
+    "full_name": "Stacey Notrealson",
+    "annual_income": 114058,
+    "loan_amount": 420390,
+    "ltv": 0.84,
+    "property_value": 500093,
+    "application_date": "2026-04-17"
+  },
+  {
+    "applicant_id": "SYN-0084",
+    "full_name": "Scott Mockford",
+    "annual_income": 86244,
+    "loan_amount": 342998,
+    "ltv": 0.92,
+    "property_value": 374098,
+    "application_date": "2026-01-31"
+  },
+  {
+    "applicant_id": "SYN-0085",
+    "full_name": "Georgina Mockford",
+    "annual_income": 32097,
+    "loan_amount": 137008,
+    "ltv": 0.89,
+    "property_value": 153895,
+    "application_date": "2025-02-12"
+  },
+  {
+    "applicant_id": "SYN-0086",
+    "full_name": "Debra Notrealson",
+    "annual_income": 20464,
+    "loan_amount": 75044,
+    "ltv": 0.65,
+    "property_value": 116206,
+    "application_date": "2026-07-02"
+  },
+  {
+    "applicant_id": "SYN-0087",
+    "full_name": "Mary Mockingley",
+    "annual_income": 41178,
+    "loan_amount": 184579,
+    "ltv": 0.79,
+    "property_value": 232735,
+    "application_date": "2026-09-05"
+  },
+  {
+    "applicant_id": "SYN-0088",
+    "full_name": "Sheila Dummerton",
+    "annual_income": 93519,
+    "loan_amount": 282366,
+    "ltv": 0.63,
+    "property_value": 450822,
+    "application_date": "2026-04-09"
+  },
+  {
+    "applicant_id": "SYN-0089",
+    "full_name": "Hollie Dummerton",
+    "annual_income": 91511,
+    "loan_amount": 281127,
+    "ltv": 0.73,
+    "property_value": 385514,
+    "application_date": "2025-03-10"
+  },
+  {
+    "applicant_id": "SYN-0090",
+    "full_name": "Graeme Mockford",
+    "annual_income": 76333,
+    "loan_amount": 248456,
+    "ltv": 0.71,
+    "property_value": 350981,
+    "application_date": "2025-07-29"
+  },
+  {
+    "applicant_id": "SYN-0091",
+    "full_name": "Vanessa Fakeness",
+    "annual_income": 137823,
+    "loan_amount": 512098,
+    "ltv": 0.84,
+    "property_value": 610568,
+    "application_date": "2026-01-24"
+  },
+  {
+    "applicant_id": "SYN-0092",
+    "full_name": "Jennifer Mockingley",
+    "annual_income": 66357,
+    "loan_amount": 302603,
+    "ltv": 0.91,
+    "property_value": 332733,
+    "application_date": "2026-07-21"
+  },
+  {
+    "applicant_id": "SYN-0093",
+    "full_name": "Alison Examplar",
+    "annual_income": 147642,
+    "loan_amount": 626197,
+    "ltv": 0.65,
+    "property_value": 957351,
+    "application_date": "2025-01-12"
+  },
+  {
+    "applicant_id": "SYN-0094",
+    "full_name": "Eric Fakeley",
+    "annual_income": 133325,
+    "loan_amount": 443306,
+    "ltv": 0.88,
+    "property_value": 503779,
+    "application_date": "2024-12-02"
+  },
+  {
+    "applicant_id": "SYN-0095",
+    "full_name": "Michael Pretendley",
+    "annual_income": 135528,
+    "loan_amount": 518339,
+    "ltv": 0.66,
+    "property_value": 782072,
+    "application_date": "2025-12-11"
+  },
+  {
+    "applicant_id": "SYN-0096",
+    "full_name": "Bernard Examplar",
+    "annual_income": 122548,
+    "loan_amount": 595783,
+    "ltv": 0.88,
+    "property_value": 676425,
+    "application_date": "2025-12-11"
+  },
+  {
+    "applicant_id": "SYN-0097",
+    "full_name": "Thomas Demoman",
+    "annual_income": 54970,
+    "loan_amount": 182412,
+    "ltv": 0.85,
+    "property_value": 215758,
+    "application_date": "2024-12-07"
+  },
+  {
+    "applicant_id": "SYN-0098",
+    "full_name": "Julia Placeholder",
+    "annual_income": 134316,
+    "loan_amount": 413351,
+    "ltv": 0.76,
+    "property_value": 540511,
+    "application_date": "2024-11-28"
+  },
+  {
+    "applicant_id": "SYN-0099",
+    "full_name": "Joseph Examplar",
+    "annual_income": 127031,
+    "loan_amount": 614437,
+    "ltv": 0.72,
+    "property_value": 850573,
+    "application_date": "2026-07-25"
+  },
+  {
+    "applicant_id": "SYN-0100",
+    "full_name": "Mohamed Pretendley",
+    "annual_income": 49219,
+    "loan_amount": 149986,
+    "ltv": 0.67,
+    "property_value": 224666,
+    "application_date": "2024-12-07"
+  },
+  {
+    "applicant_id": "SYN-0101",
+    "full_name": "Frank Notrealson",
+    "annual_income": 56517,
+    "loan_amount": 267252,
+    "ltv": 0.94,
+    "property_value": 284792,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0102",
+    "full_name": "Danielle Pretendley",
+    "annual_income": 66025,
+    "loan_amount": 282783,
+    "ltv": 0.74,
+    "property_value": 382197,
+    "application_date": "2025-03-19"
+  },
+  {
+    "applicant_id": "SYN-0103",
+    "full_name": "Wayne Notrealson",
+    "annual_income": 143107,
+    "loan_amount": 437221,
+    "ltv": 0.91,
+    "property_value": 482071,
+    "application_date": "2026-03-17"
+  },
+  {
+    "applicant_id": "SYN-0104",
+    "full_name": "Alexandra Mockford",
+    "annual_income": 43405,
+    "loan_amount": 180616,
+    "ltv": 0.94,
+    "property_value": 191281,
+    "application_date": "2025-12-02"
+  },
+  {
+    "applicant_id": "SYN-0105",
+    "full_name": "Norman Pretendley",
+    "annual_income": 34208,
+    "loan_amount": 143439,
+    "ltv": 0.72,
+    "property_value": 198947,
+    "application_date": "2026-04-30"
+  },
+  {
+    "applicant_id": "SYN-0106",
+    "full_name": "Jane Demoman",
+    "annual_income": 77199,
+    "loan_amount": 325194,
+    "ltv": 0.78,
+    "property_value": 417452,
+    "application_date": "2025-03-02"
+  },
+  {
+    "applicant_id": "SYN-0107",
+    "full_name": "Lewis Mockingley",
+    "annual_income": 137899,
+    "loan_amount": 572719,
+    "ltv": 0.69,
+    "property_value": 831048,
+    "application_date": "2026-01-30"
+  },
+  {
+    "applicant_id": "SYN-0108",
+    "full_name": "Owen Placeholder",
+    "annual_income": 20221,
+    "loan_amount": 81690,
+    "ltv": 0.88,
+    "property_value": 92590,
+    "application_date": "2025-08-16"
+  },
+  {
+    "applicant_id": "SYN-0109",
+    "full_name": "Jade Pretendley",
+    "annual_income": 67739,
+    "loan_amount": 261648,
+    "ltv": 0.93,
+    "property_value": 280706,
+    "application_date": "2026-06-25"
+  },
+  {
+    "applicant_id": "SYN-0110",
+    "full_name": "Alexander Syntheton",
+    "annual_income": 101678,
+    "loan_amount": 368871,
+    "ltv": 0.9,
+    "property_value": 411317,
+    "application_date": "2026-02-10"
+  },
+  {
+    "applicant_id": "SYN-0111",
+    "full_name": "Leah Demoman",
+    "annual_income": 86469,
+    "loan_amount": 312894,
+    "ltv": 0.74,
+    "property_value": 421158,
+    "application_date": "2024-12-27"
+  },
+  {
+    "applicant_id": "SYN-0112",
+    "full_name": "Sophie Mockingley",
+    "annual_income": 111384,
+    "loan_amount": 400015,
+    "ltv": 0.64,
+    "property_value": 620611,
+    "application_date": "2026-03-21"
+  },
+  {
+    "applicant_id": "SYN-0113",
+    "full_name": "Raymond Fakeley",
+    "annual_income": 107153,
+    "loan_amount": 522985,
+    "ltv": 0.84,
+    "property_value": 624787,
+    "application_date": "2025-04-13"
+  },
+  {
+    "applicant_id": "SYN-0114",
+    "full_name": "Karl Testwell",
+    "annual_income": 100676,
+    "loan_amount": 416618,
+    "ltv": 0.74,
+    "property_value": 561384,
+    "application_date": "2025-11-04"
+  },
+  {
+    "applicant_id": "SYN-0115",
+    "full_name": "Bradley Pretendley",
+    "annual_income": 59829,
+    "loan_amount": 213819,
+    "ltv": 0.75,
+    "property_value": 284917,
+    "application_date": "2025-08-14"
+  },
+  {
+    "applicant_id": "SYN-0116",
+    "full_name": "Ricky Stubbington",
+    "annual_income": 80946,
+    "loan_amount": 314360,
+    "ltv": 0.84,
+    "property_value": 375818,
+    "application_date": "2025-09-12"
+  },
+  {
+    "applicant_id": "SYN-0117",
+    "full_name": "Keith Fakeley",
+    "annual_income": 124036,
+    "loan_amount": 595666,
+    "ltv": 0.88,
+    "property_value": 677965,
+    "application_date": "2025-08-29"
+  },
+  {
+    "applicant_id": "SYN-0118",
+    "full_name": "Georgina Pretendley",
+    "annual_income": 106356,
+    "loan_amount": 337105,
+    "ltv": 0.78,
+    "property_value": 431960,
+    "application_date": "2024-12-26"
+  },
+  {
+    "applicant_id": "SYN-0119",
+    "full_name": "Naomi Syntheton",
+    "annual_income": 32240,
+    "loan_amount": 149492,
+    "ltv": 0.86,
+    "property_value": 173244,
+    "application_date": "2026-09-30"
+  },
+  {
+    "applicant_id": "SYN-0120",
+    "full_name": "Stephen Mockford",
+    "annual_income": 49444,
+    "loan_amount": 228091,
+    "ltv": 0.65,
+    "property_value": 350062,
+    "application_date": "2026-09-08"
+  },
+  {
+    "applicant_id": "SYN-0121",
+    "full_name": "Frank Samplesmith",
+    "annual_income": 52092,
+    "loan_amount": 258786,
+    "ltv": 0.81,
+    "property_value": 317940,
+    "application_date": "2025-02-13"
+  },
+  {
+    "applicant_id": "SYN-0122",
+    "full_name": "Danielle Placeholder",
+    "annual_income": 79692,
+    "loan_amount": 305131,
+    "ltv": 0.82,
+    "property_value": 371921,
+    "application_date": "2025-09-26"
+  },
+  {
+    "applicant_id": "SYN-0123",
+    "full_name": "Joanne Examplar",
+    "annual_income": 114155,
+    "loan_amount": 501450,
+    "ltv": 0.77,
+    "property_value": 648679,
+    "application_date": "2026-07-23"
+  },
+  {
+    "applicant_id": "SYN-0124",
+    "full_name": "Roger Fakeness",
+    "annual_income": 39342,
+    "loan_amount": 169647,
+    "ltv": 0.6,
+    "property_value": 281833,
+    "application_date": "2025-07-15"
+  },
+  {
+    "applicant_id": "SYN-0125",
+    "full_name": "Janet Sandboxe",
+    "annual_income": 122029,
+    "loan_amount": 469847,
+    "ltv": 0.66,
+    "property_value": 710210,
+    "application_date": "2025-04-25"
+  },
+  {
+    "applicant_id": "SYN-0126",
+    "full_name": "Sandra Fakeness",
+    "annual_income": 26582,
+    "loan_amount": 109380,
+    "ltv": 0.92,
+    "property_value": 118747,
+    "application_date": "2025-05-09"
+  },
+  {
+    "applicant_id": "SYN-0127",
+    "full_name": "Bethan Pretendley",
+    "annual_income": 79829,
+    "loan_amount": 260776,
+    "ltv": 0.76,
+    "property_value": 341945,
+    "application_date": "2026-08-31"
+  },
+  {
+    "applicant_id": "SYN-0128",
+    "full_name": "Suzanne Mockingley",
+    "annual_income": 144523,
+    "loan_amount": 651871,
+    "ltv": 0.75,
+    "property_value": 863519,
+    "application_date": "2026-02-01"
+  },
+  {
+    "applicant_id": "SYN-0129",
+    "full_name": "Holly Fakeley",
+    "annual_income": 128864,
+    "loan_amount": 620314,
+    "ltv": 0.76,
+    "property_value": 820445,
+    "application_date": "2025-02-05"
+  },
+  {
+    "applicant_id": "SYN-0130",
+    "full_name": "Bryan Examplar",
+    "annual_income": 117472,
+    "loan_amount": 554819,
+    "ltv": 0.76,
+    "property_value": 732411,
+    "application_date": "2025-03-22"
+  },
+  {
+    "applicant_id": "SYN-0131",
+    "full_name": "Kevin Stubbington",
+    "annual_income": 130082,
+    "loan_amount": 556143,
+    "ltv": 0.87,
+    "property_value": 640692,
+    "application_date": "2025-12-04"
+  },
+  {
+    "applicant_id": "SYN-0132",
+    "full_name": "Joanna Syntheton",
+    "annual_income": 102149,
+    "loan_amount": 355324,
+    "ltv": 0.75,
+    "property_value": 471280,
+    "application_date": "2024-11-30"
+  },
+  {
+    "applicant_id": "SYN-0133",
+    "full_name": "Terry Samplesmith",
+    "annual_income": 50735,
+    "loan_amount": 179776,
+    "ltv": 0.71,
+    "property_value": 252530,
+    "application_date": "2024-11-27"
+  },
+  {
+    "applicant_id": "SYN-0134",
+    "full_name": "Fiona Dummerton",
+    "annual_income": 38136,
+    "loan_amount": 125912,
+    "ltv": 0.73,
+    "property_value": 171528,
+    "application_date": "2025-09-22"
+  },
+  {
+    "applicant_id": "SYN-0135",
+    "full_name": "Melanie Pretendley",
+    "annual_income": 112591,
+    "loan_amount": 385951,
+    "ltv": 0.75,
+    "property_value": 517913,
+    "application_date": "2025-02-07"
+  },
+  {
+    "applicant_id": "SYN-0136",
+    "full_name": "Natasha Mockingley",
+    "annual_income": 91121,
+    "loan_amount": 358274,
+    "ltv": 0.62,
+    "property_value": 576195,
+    "application_date": "2024-12-14"
+  },
+  {
+    "applicant_id": "SYN-0137",
+    "full_name": "Christian Testwell",
+    "annual_income": 71049,
+    "loan_amount": 341723,
+    "ltv": 0.8,
+    "property_value": 424803,
+    "application_date": "2024-12-05"
+  },
+  {
+    "applicant_id": "SYN-0138",
+    "full_name": "Joseph Stubbington",
+    "annual_income": 132293,
+    "loan_amount": 629888,
+    "ltv": 0.8,
+    "property_value": 785895,
+    "application_date": "2026-02-11"
+  },
+  {
+    "applicant_id": "SYN-0139",
+    "full_name": "Damian Demoman",
+    "annual_income": 20772,
+    "loan_amount": 101481,
+    "ltv": 0.7,
+    "property_value": 144044,
+    "application_date": "2025-08-01"
+  },
+  {
+    "applicant_id": "SYN-0140",
+    "full_name": "Shirley Examplar",
+    "annual_income": 131863,
+    "loan_amount": 630738,
+    "ltv": 0.89,
+    "property_value": 706705,
+    "application_date": "2025-04-11"
+  },
+  {
+    "applicant_id": "SYN-0141",
+    "full_name": "Marilyn Testwell",
+    "annual_income": 83993,
+    "loan_amount": 288839,
+    "ltv": 0.75,
+    "property_value": 383817,
+    "application_date": "2024-11-15"
+  },
+  {
+    "applicant_id": "SYN-0142",
+    "full_name": "Jonathan Demoman",
+    "annual_income": 70968,
+    "loan_amount": 260613,
+    "ltv": 0.84,
+    "property_value": 311106,
+    "application_date": "2025-08-12"
+  },
+  {
+    "applicant_id": "SYN-0143",
+    "full_name": "Carole Dummerton",
+    "annual_income": 114919,
+    "loan_amount": 382691,
+    "ltv": 0.76,
+    "property_value": 501176,
+    "application_date": "2025-11-25"
+  },
+  {
+    "applicant_id": "SYN-0144",
+    "full_name": "Guy Demoman",
+    "annual_income": 148545,
+    "loan_amount": 630501,
+    "ltv": 0.61,
+    "property_value": 1034561,
+    "application_date": "2026-08-15"
+  },
+  {
+    "applicant_id": "SYN-0145",
+    "full_name": "Dennis Mockingley",
+    "annual_income": 97580,
+    "loan_amount": 402887,
+    "ltv": 0.61,
+    "property_value": 661028,
+    "application_date": "2026-02-07"
+  },
+  {
+    "applicant_id": "SYN-0146",
+    "full_name": "Terry Notrealson",
+    "annual_income": 37786,
+    "loan_amount": 178868,
+    "ltv": 0.66,
+    "property_value": 269540,
+    "application_date": "2025-04-06"
+  },
+  {
+    "applicant_id": "SYN-0147",
+    "full_name": "Hannah Pretendley",
+    "annual_income": 69689,
+    "loan_amount": 254693,
+    "ltv": 0.76,
+    "property_value": 335500,
+    "application_date": "2025-01-19"
+  },
+  {
+    "applicant_id": "SYN-0148",
+    "full_name": "Leah Mockingley",
+    "annual_income": 119775,
+    "loan_amount": 570043,
+    "ltv": 0.7,
+    "property_value": 817395,
+    "application_date": "2025-05-19"
+  },
+  {
+    "applicant_id": "SYN-0149",
+    "full_name": "Guy Mockford",
+    "annual_income": 53065,
+    "loan_amount": 247804,
+    "ltv": 0.76,
+    "property_value": 324093,
+    "application_date": "2026-08-11"
+  },
+  {
+    "applicant_id": "SYN-0150",
+    "full_name": "Liam Mockford",
+    "annual_income": 144770,
+    "loan_amount": 535638,
+    "ltv": 0.83,
+    "property_value": 647257,
+    "application_date": "2024-10-24"
+  },
+  {
+    "applicant_id": "SYN-0151",
+    "full_name": "Brenda Testwell",
+    "annual_income": 118858,
+    "loan_amount": 363950,
+    "ltv": 0.69,
+    "property_value": 530115,
+    "application_date": "2026-09-29"
+  },
+  {
+    "applicant_id": "SYN-0152",
+    "full_name": "Oliver Fakeness",
+    "annual_income": 101439,
+    "loan_amount": 335232,
+    "ltv": 0.64,
+    "property_value": 520403,
+    "application_date": "2024-12-09"
+  },
+  {
+    "applicant_id": "SYN-0153",
+    "full_name": "Allan Notrealson",
+    "annual_income": 93920,
+    "loan_amount": 459787,
+    "ltv": 0.76,
+    "property_value": 602792,
+    "application_date": "2025-10-13"
+  },
+  {
+    "applicant_id": "SYN-0154",
+    "full_name": "Wayne Fakeness",
+    "annual_income": 120518,
+    "loan_amount": 450471,
+    "ltv": 0.81,
+    "property_value": 554725,
+    "application_date": "2026-08-14"
+  },
+  {
+    "applicant_id": "SYN-0155",
+    "full_name": "Brian Fakeness",
+    "annual_income": 121946,
+    "loan_amount": 565659,
+    "ltv": 0.94,
+    "property_value": 603272,
+    "application_date": "2026-07-06"
+  },
+  {
+    "applicant_id": "SYN-0156",
+    "full_name": "Lauren Demoman",
+    "annual_income": 95849,
+    "loan_amount": 292470,
+    "ltv": 0.71,
+    "property_value": 412403,
+    "application_date": "2025-05-09"
+  },
+  {
+    "applicant_id": "SYN-0157",
+    "full_name": "Jennifer Examplar",
+    "annual_income": 71990,
+    "loan_amount": 351523,
+    "ltv": 0.67,
+    "property_value": 525119,
+    "application_date": "2026-06-04"
+  },
+  {
+    "applicant_id": "SYN-0158",
+    "full_name": "Geraldine Fakeness",
+    "annual_income": 33356,
+    "loan_amount": 146579,
+    "ltv": 0.71,
+    "property_value": 207750,
+    "application_date": "2025-05-21"
+  },
+  {
+    "applicant_id": "SYN-0159",
+    "full_name": "Hilary Fictworth",
+    "annual_income": 124363,
+    "loan_amount": 617797,
+    "ltv": 0.87,
+    "property_value": 706924,
+    "application_date": "2025-10-30"
+  },
+  {
+    "applicant_id": "SYN-0160",
+    "full_name": "Dorothy Pretendley",
+    "annual_income": 89827,
+    "loan_amount": 346441,
+    "ltv": 0.73,
+    "property_value": 474772,
+    "application_date": "2026-05-23"
+  },
+  {
+    "applicant_id": "SYN-0161",
+    "full_name": "Clifford Fakeness",
+    "annual_income": 21658,
+    "loan_amount": 101774,
+    "ltv": 0.89,
+    "property_value": 114634,
+    "application_date": "2026-08-13"
+  },
+  {
+    "applicant_id": "SYN-0162",
+    "full_name": "Stuart Sandboxe",
+    "annual_income": 76822,
+    "loan_amount": 378085,
+    "ltv": 0.82,
+    "property_value": 459703,
+    "application_date": "2026-08-18"
+  },
+  {
+    "applicant_id": "SYN-0163",
+    "full_name": "Aaron Notrealson",
+    "annual_income": 112708,
+    "loan_amount": 372611,
+    "ltv": 0.66,
+    "property_value": 563156,
+    "application_date": "2025-04-24"
+  },
+  {
+    "applicant_id": "SYN-0164",
+    "full_name": "Kenneth Stubbington",
+    "annual_income": 100728,
+    "loan_amount": 465001,
+    "ltv": 0.79,
+    "property_value": 589833,
+    "application_date": "2026-03-31"
+  },
+  {
+    "applicant_id": "SYN-0165",
+    "full_name": "Dean Notrealson",
+    "annual_income": 80931,
+    "loan_amount": 313296,
+    "ltv": 0.86,
+    "property_value": 366060,
+    "application_date": "2025-04-30"
+  },
+  {
+    "applicant_id": "SYN-0166",
+    "full_name": "Rachael Samplesmith",
+    "annual_income": 62245,
+    "loan_amount": 292765,
+    "ltv": 0.89,
+    "property_value": 328670,
+    "application_date": "2025-03-17"
+  },
+  {
+    "applicant_id": "SYN-0167",
+    "full_name": "Glenn Sandboxe",
+    "annual_income": 56559,
+    "loan_amount": 269405,
+    "ltv": 0.69,
+    "property_value": 393090,
+    "application_date": "2025-03-12"
+  },
+  {
+    "applicant_id": "SYN-0168",
+    "full_name": "Ashleigh Testwell",
+    "annual_income": 94691,
+    "loan_amount": 399659,
+    "ltv": 0.73,
+    "property_value": 545501,
+    "application_date": "2026-06-18"
+  },
+  {
+    "applicant_id": "SYN-0169",
+    "full_name": "Leanne Placeholder",
+    "annual_income": 84789,
+    "loan_amount": 398670,
+    "ltv": 0.66,
+    "property_value": 600729,
+    "application_date": "2025-10-01"
+  },
+  {
+    "applicant_id": "SYN-0170",
+    "full_name": "Lee Notrealson",
+    "annual_income": 66507,
+    "loan_amount": 305644,
+    "ltv": 0.72,
+    "property_value": 425026,
+    "application_date": "2024-12-22"
+  },
+  {
+    "applicant_id": "SYN-0171",
+    "full_name": "Mary Samplesmith",
+    "annual_income": 92848,
+    "loan_amount": 280429,
+    "ltv": 0.93,
+    "property_value": 300947,
+    "application_date": "2026-06-01"
+  },
+  {
+    "applicant_id": "SYN-0172",
+    "full_name": "Samuel Examplar",
+    "annual_income": 51635,
+    "loan_amount": 229267,
+    "ltv": 0.77,
+    "property_value": 297362,
+    "application_date": "2024-10-20"
+  },
+  {
+    "applicant_id": "SYN-0173",
+    "full_name": "Callum Sandboxe",
+    "annual_income": 110519,
+    "loan_amount": 436792,
+    "ltv": 0.85,
+    "property_value": 514390,
+    "application_date": "2026-01-15"
+  },
+  {
+    "applicant_id": "SYN-0174",
+    "full_name": "Marcus Demoman",
+    "annual_income": 123931,
+    "loan_amount": 376067,
+    "ltv": 0.7,
+    "property_value": 534959,
+    "application_date": "2025-02-10"
+  },
+  {
+    "applicant_id": "SYN-0175",
+    "full_name": "Angela Fictworth",
+    "annual_income": 110673,
+    "loan_amount": 385874,
+    "ltv": 0.83,
+    "property_value": 463576,
+    "application_date": "2025-11-15"
+  },
+  {
+    "applicant_id": "SYN-0176",
+    "full_name": "Rachel Pretendley",
+    "annual_income": 82031,
+    "loan_amount": 336897,
+    "ltv": 0.72,
+    "property_value": 467708,
+    "application_date": "2025-11-21"
+  },
+  {
+    "applicant_id": "SYN-0177",
+    "full_name": "Nathan Notrealson",
+    "annual_income": 66112,
+    "loan_amount": 291270,
+    "ltv": 0.69,
+    "property_value": 419202,
+    "application_date": "2024-12-10"
+  },
+  {
+    "applicant_id": "SYN-0178",
+    "full_name": "Hollie Fakeness",
+    "annual_income": 50217,
+    "loan_amount": 162769,
+    "ltv": 0.67,
+    "property_value": 243884,
+    "application_date": "2026-07-24"
+  },
+  {
+    "applicant_id": "SYN-0179",
+    "full_name": "Janice Fakeley",
+    "annual_income": 117370,
+    "loan_amount": 477899,
+    "ltv": 0.87,
+    "property_value": 551358,
+    "application_date": "2024-11-12"
+  },
+  {
+    "applicant_id": "SYN-0180",
+    "full_name": "Lauren Syntheton",
+    "annual_income": 45105,
+    "loan_amount": 154835,
+    "ltv": 0.77,
+    "property_value": 201223,
+    "application_date": "2025-12-07"
+  },
+  {
+    "applicant_id": "SYN-0181",
+    "full_name": "Sean Examplar",
+    "annual_income": 148517,
+    "loan_amount": 475411,
+    "ltv": 0.67,
+    "property_value": 711756,
+    "application_date": "2025-08-20"
+  },
+  {
+    "applicant_id": "SYN-0182",
+    "full_name": "Luke Dummerton",
+    "annual_income": 67301,
+    "loan_amount": 226056,
+    "ltv": 0.6,
+    "property_value": 373676,
+    "application_date": "2025-05-25"
+  },
+  {
+    "applicant_id": "SYN-0183",
+    "full_name": "Simon Syntheton",
+    "annual_income": 55954,
+    "loan_amount": 172956,
+    "ltv": 0.62,
+    "property_value": 279374,
+    "application_date": "2026-07-20"
+  },
+  {
+    "applicant_id": "SYN-0184",
+    "full_name": "Rhys Stubbington",
+    "annual_income": 111411,
+    "loan_amount": 544597,
+    "ltv": 0.82,
+    "property_value": 661517,
+    "application_date": "2026-02-16"
+  },
+  {
+    "applicant_id": "SYN-0185",
+    "full_name": "Dorothy Stubbington",
+    "annual_income": 33446,
+    "loan_amount": 158716,
+    "ltv": 0.8,
+    "property_value": 198166,
+    "application_date": "2024-12-30"
+  },
+  {
+    "applicant_id": "SYN-0186",
+    "full_name": "Yvonne Mockford",
+    "annual_income": 82746,
+    "loan_amount": 321132,
+    "ltv": 0.66,
+    "property_value": 483249,
+    "application_date": "2026-07-10"
+  },
+  {
+    "applicant_id": "SYN-0187",
+    "full_name": "Jane Samplesmith",
+    "annual_income": 53092,
+    "loan_amount": 259202,
+    "ltv": 0.77,
+    "property_value": 337852,
+    "application_date": "2026-09-12"
+  },
+  {
+    "applicant_id": "SYN-0188",
+    "full_name": "Dean Mockford",
+    "annual_income": 72521,
+    "loan_amount": 288887,
+    "ltv": 0.8,
+    "property_value": 360227,
+    "application_date": "2026-08-09"
+  },
+  {
+    "applicant_id": "SYN-0189",
+    "full_name": "Frank Syntheton",
+    "annual_income": 39887,
+    "loan_amount": 131563,
+    "ltv": 0.8,
+    "property_value": 165074,
+    "application_date": "2026-06-26"
+  },
+  {
+    "applicant_id": "SYN-0190",
+    "full_name": "Edward Mockingley",
+    "annual_income": 31164,
+    "loan_amount": 155441,
+    "ltv": 0.64,
+    "property_value": 242324,
+    "application_date": "2026-07-08"
+  },
+  {
+    "applicant_id": "SYN-0191",
+    "full_name": "Peter Demoman",
+    "annual_income": 99471,
+    "loan_amount": 417008,
+    "ltv": 0.82,
+    "property_value": 510760,
+    "application_date": "2025-02-22"
+  },
+  {
+    "applicant_id": "SYN-0192",
+    "full_name": "Brett Mockingley",
+    "annual_income": 79049,
+    "loan_amount": 380780,
+    "ltv": 0.7,
+    "property_value": 540824,
+    "application_date": "2026-04-28"
+  },
+  {
+    "applicant_id": "SYN-0193",
+    "full_name": "Victoria Fakeness",
+    "annual_income": 60026,
+    "loan_amount": 248343,
+    "ltv": 0.62,
+    "property_value": 399856,
+    "application_date": "2026-05-12"
+  },
+  {
+    "applicant_id": "SYN-0194",
+    "full_name": "Frederick Notrealson",
+    "annual_income": 144202,
+    "loan_amount": 652582,
+    "ltv": 0.82,
+    "property_value": 796871,
+    "application_date": "2025-04-26"
+  },
+  {
+    "applicant_id": "SYN-0195",
+    "full_name": "Rita Samplesmith",
+    "annual_income": 106563,
+    "loan_amount": 336992,
+    "ltv": 0.68,
+    "property_value": 492712,
+    "application_date": "2025-01-03"
+  },
+  {
+    "applicant_id": "SYN-0196",
+    "full_name": "Ian Stubbington",
+    "annual_income": 40517,
+    "loan_amount": 121768,
+    "ltv": 0.76,
+    "property_value": 160712,
+    "application_date": "2026-06-22"
+  },
+  {
+    "applicant_id": "SYN-0197",
+    "full_name": "Ross Syntheton",
+    "annual_income": 58175,
+    "loan_amount": 178323,
+    "ltv": 0.7,
+    "property_value": 254443,
+    "application_date": "2025-03-09"
+  },
+  {
+    "applicant_id": "SYN-0198",
+    "full_name": "Kelly Examplar",
+    "annual_income": 112141,
+    "loan_amount": 529217,
+    "ltv": 0.62,
+    "property_value": 846865,
+    "application_date": "2025-06-24"
+  },
+  {
+    "applicant_id": "SYN-0199",
+    "full_name": "Julian Placeholder",
+    "annual_income": 141098,
+    "loan_amount": 497950,
+    "ltv": 0.88,
+    "property_value": 567829,
+    "application_date": "2025-03-25"
+  },
+  {
+    "applicant_id": "SYN-0200",
+    "full_name": "Katy Dummerton",
+    "annual_income": 75723,
+    "loan_amount": 244551,
+    "ltv": 0.68,
+    "property_value": 360332,
+    "application_date": "2025-03-04"
+  },
+  {
+    "applicant_id": "SYN-0201",
+    "full_name": "Hugh Mockford",
+    "annual_income": 139067,
+    "loan_amount": 491082,
+    "ltv": 0.65,
+    "property_value": 755763,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0202",
+    "full_name": "Brian Syntheton",
+    "annual_income": 41747,
+    "loan_amount": 191421,
+    "ltv": 0.81,
+    "property_value": 236829,
+    "application_date": "2026-09-07"
+  },
+  {
+    "applicant_id": "SYN-0203",
+    "full_name": "Ricky Demoman",
+    "annual_income": 77560,
+    "loan_amount": 251970,
+    "ltv": 0.84,
+    "property_value": 299594,
+    "application_date": "2025-06-25"
+  },
+  {
+    "applicant_id": "SYN-0204",
+    "full_name": "Natasha Sandboxe",
+    "annual_income": 143558,
+    "loan_amount": 508840,
+    "ltv": 0.79,
+    "property_value": 644923,
+    "application_date": "2025-07-29"
+  },
+  {
+    "applicant_id": "SYN-0205",
+    "full_name": "Paula Pretendley",
+    "annual_income": 30543,
+    "loan_amount": 128161,
+    "ltv": 0.91,
+    "property_value": 140636,
+    "application_date": "2025-06-11"
+  },
+  {
+    "applicant_id": "SYN-0206",
+    "full_name": "Matthew Testwell",
+    "annual_income": 99129,
+    "loan_amount": 347024,
+    "ltv": 0.63,
+    "property_value": 549120,
+    "application_date": "2025-01-08"
+  },
+  {
+    "applicant_id": "SYN-0207",
+    "full_name": "Elliot Mockford",
+    "annual_income": 120238,
+    "loan_amount": 522382,
+    "ltv": 0.69,
+    "property_value": 752355,
+    "application_date": "2025-02-22"
+  },
+  {
+    "applicant_id": "SYN-0208",
+    "full_name": "Arthur Sandboxe",
+    "annual_income": 120022,
+    "loan_amount": 541604,
+    "ltv": 0.76,
+    "property_value": 708280,
+    "application_date": "2024-11-14"
+  },
+  {
+    "applicant_id": "SYN-0209",
+    "full_name": "Jodie Mockingley",
+    "annual_income": 140071,
+    "loan_amount": 498136,
+    "ltv": 0.95,
+    "property_value": 524944,
+    "application_date": "2025-08-23"
+  },
+  {
+    "applicant_id": "SYN-0210",
+    "full_name": "Terry Stubbington",
+    "annual_income": 103202,
+    "loan_amount": 477669,
+    "ltv": 0.94,
+    "property_value": 508608,
+    "application_date": "2025-08-25"
+  },
+  {
+    "applicant_id": "SYN-0211",
+    "full_name": "Denise Fakeness",
+    "annual_income": 65607,
+    "loan_amount": 250402,
+    "ltv": 0.71,
+    "property_value": 351505,
+    "application_date": "2025-01-08"
+  },
+  {
+    "applicant_id": "SYN-0212",
+    "full_name": "Melissa Stubbington",
+    "annual_income": 132424,
+    "loan_amount": 439866,
+    "ltv": 0.74,
+    "property_value": 591158,
+    "application_date": "2025-03-02"
+  },
+  {
+    "applicant_id": "SYN-0213",
+    "full_name": "Samuel Mockford",
+    "annual_income": 57777,
+    "loan_amount": 249895,
+    "ltv": 0.74,
+    "property_value": 337624,
+    "application_date": "2026-03-07"
+  },
+  {
+    "applicant_id": "SYN-0214",
+    "full_name": "David Fakeness",
+    "annual_income": 79614,
+    "loan_amount": 252864,
+    "ltv": 0.69,
+    "property_value": 367354,
+    "application_date": "2025-10-23"
+  },
+  {
+    "applicant_id": "SYN-0215",
+    "full_name": "Shannon Testwell",
+    "annual_income": 147164,
+    "loan_amount": 668874,
+    "ltv": 0.9,
+    "property_value": 740955,
+    "application_date": "2026-02-19"
+  },
+  {
+    "applicant_id": "SYN-0216",
+    "full_name": "Vanessa Mockford",
+    "annual_income": 106200,
+    "loan_amount": 503254,
+    "ltv": 0.76,
+    "property_value": 660706,
+    "application_date": "2025-03-07"
+  },
+  {
+    "applicant_id": "SYN-0217",
+    "full_name": "Sharon Stubbington",
+    "annual_income": 44586,
+    "loan_amount": 179988,
+    "ltv": 0.82,
+    "property_value": 220055,
+    "application_date": "2024-12-06"
+  },
+  {
+    "applicant_id": "SYN-0218",
+    "full_name": "Rosie Notrealson",
+    "annual_income": 101973,
+    "loan_amount": 396071,
+    "ltv": 0.62,
+    "property_value": 640825,
+    "application_date": "2026-08-05"
+  },
+  {
+    "applicant_id": "SYN-0219",
+    "full_name": "Sara Stubbington",
+    "annual_income": 91987,
+    "loan_amount": 300064,
+    "ltv": 0.7,
+    "property_value": 428167,
+    "application_date": "2025-05-29"
+  },
+  {
+    "applicant_id": "SYN-0220",
+    "full_name": "Harry Examplar",
+    "annual_income": 35915,
+    "loan_amount": 109819,
+    "ltv": 0.82,
+    "property_value": 133843,
+    "application_date": "2026-03-15"
+  },
+  {
+    "applicant_id": "SYN-0221",
+    "full_name": "Clifford Mockingley",
+    "annual_income": 113032,
+    "loan_amount": 374900,
+    "ltv": 0.79,
+    "property_value": 472885,
+    "application_date": "2025-10-14"
+  },
+  {
+    "applicant_id": "SYN-0222",
+    "full_name": "Dorothy Fakeness",
+    "annual_income": 32217,
+    "loan_amount": 111129,
+    "ltv": 0.89,
+    "property_value": 124237,
+    "application_date": "2025-08-05"
+  },
+  {
+    "applicant_id": "SYN-0223",
+    "full_name": "Sophie Dummerton",
+    "annual_income": 80482,
+    "loan_amount": 393889,
+    "ltv": 0.83,
+    "property_value": 476460,
+    "application_date": "2026-02-27"
+  },
+  {
+    "applicant_id": "SYN-0224",
+    "full_name": "Andrea Notrealson",
+    "annual_income": 85323,
+    "loan_amount": 415123,
+    "ltv": 0.7,
+    "property_value": 591216,
+    "application_date": "2025-01-16"
+  },
+  {
+    "applicant_id": "SYN-0225",
+    "full_name": "Emily Examplar",
+    "annual_income": 74459,
+    "loan_amount": 347682,
+    "ltv": 0.94,
+    "property_value": 368664,
+    "application_date": "2026-02-04"
+  },
+  {
+    "applicant_id": "SYN-0226",
+    "full_name": "Jessica Dummerton",
+    "annual_income": 79871,
+    "loan_amount": 327673,
+    "ltv": 0.73,
+    "property_value": 446266,
+    "application_date": "2026-02-12"
+  },
+  {
+    "applicant_id": "SYN-0227",
+    "full_name": "Clive Mockingley",
+    "annual_income": 133249,
+    "loan_amount": 418351,
+    "ltv": 0.87,
+    "property_value": 480622,
+    "application_date": "2025-12-30"
+  },
+  {
+    "applicant_id": "SYN-0228",
+    "full_name": "Josh Testwell",
+    "annual_income": 64548,
+    "loan_amount": 314252,
+    "ltv": 0.78,
+    "property_value": 404074,
+    "application_date": "2025-08-03"
+  },
+  {
+    "applicant_id": "SYN-0229",
+    "full_name": "David Stubbington",
+    "annual_income": 57072,
+    "loan_amount": 254090,
+    "ltv": 0.89,
+    "property_value": 284498,
+    "application_date": "2025-05-22"
+  },
+  {
+    "applicant_id": "SYN-0230",
+    "full_name": "Rhys Fictworth",
+    "annual_income": 133411,
+    "loan_amount": 439882,
+    "ltv": 0.79,
+    "property_value": 557870,
+    "application_date": "2025-08-20"
+  },
+  {
+    "applicant_id": "SYN-0231",
+    "full_name": "Rosemary Sandboxe",
+    "annual_income": 63573,
+    "loan_amount": 260893,
+    "ltv": 0.79,
+    "property_value": 330161,
+    "application_date": "2025-12-24"
+  },
+  {
+    "applicant_id": "SYN-0232",
+    "full_name": "Danny Examplar",
+    "annual_income": 142270,
+    "loan_amount": 518369,
+    "ltv": 0.67,
+    "property_value": 778299,
+    "application_date": "2025-09-14"
+  },
+  {
+    "applicant_id": "SYN-0233",
+    "full_name": "Angela Mockingley",
+    "annual_income": 94946,
+    "loan_amount": 357561,
+    "ltv": 0.9,
+    "property_value": 397465,
+    "application_date": "2026-02-11"
+  },
+  {
+    "applicant_id": "SYN-0234",
+    "full_name": "Denise Demoman",
+    "annual_income": 25720,
+    "loan_amount": 93527,
+    "ltv": 0.77,
+    "property_value": 122171,
+    "application_date": "2025-09-20"
+  },
+  {
+    "applicant_id": "SYN-0235",
+    "full_name": "Leslie Dummerton",
+    "annual_income": 70604,
+    "loan_amount": 351384,
+    "ltv": 0.88,
+    "property_value": 400512,
+    "application_date": "2026-01-30"
+  },
+  {
+    "applicant_id": "SYN-0236",
+    "full_name": "Glen Pretendley",
+    "annual_income": 84923,
+    "loan_amount": 418641,
+    "ltv": 0.64,
+    "property_value": 649876,
+    "application_date": "2025-10-20"
+  },
+  {
+    "applicant_id": "SYN-0237",
+    "full_name": "Ashleigh Fakeness",
+    "annual_income": 133993,
+    "loan_amount": 428875,
+    "ltv": 0.9,
+    "property_value": 478781,
+    "application_date": "2026-01-02"
+  },
+  {
+    "applicant_id": "SYN-0238",
+    "full_name": "Colin Dummerton",
+    "annual_income": 88937,
+    "loan_amount": 428755,
+    "ltv": 0.61,
+    "property_value": 708251,
+    "application_date": "2026-05-24"
+  },
+  {
+    "applicant_id": "SYN-0239",
+    "full_name": "Damian Samplesmith",
+    "annual_income": 73736,
+    "loan_amount": 349646,
+    "ltv": 0.94,
+    "property_value": 372168,
+    "application_date": "2026-02-09"
+  },
+  {
+    "applicant_id": "SYN-0240",
+    "full_name": "Eric Demoman",
+    "annual_income": 81537,
+    "loan_amount": 372057,
+    "ltv": 0.69,
+    "property_value": 537066,
+    "application_date": "2026-05-16"
+  },
+  {
+    "applicant_id": "SYN-0241",
+    "full_name": "Sean Demoman",
+    "annual_income": 105175,
+    "loan_amount": 332419,
+    "ltv": 0.71,
+    "property_value": 464923,
+    "application_date": "2024-11-04"
+  },
+  {
+    "applicant_id": "SYN-0242",
+    "full_name": "Duncan Stubbington",
+    "annual_income": 145060,
+    "loan_amount": 527050,
+    "ltv": 0.85,
+    "property_value": 618929,
+    "application_date": "2026-09-19"
+  },
+  {
+    "applicant_id": "SYN-0243",
+    "full_name": "Kathryn Examplar",
+    "annual_income": 134344,
+    "loan_amount": 548397,
+    "ltv": 0.82,
+    "property_value": 671964,
+    "application_date": "2026-06-15"
+  },
+  {
+    "applicant_id": "SYN-0244",
+    "full_name": "Liam Examplar",
+    "annual_income": 102727,
+    "loan_amount": 448794,
+    "ltv": 0.7,
+    "property_value": 640601,
+    "application_date": "2025-09-07"
+  },
+  {
+    "applicant_id": "SYN-0245",
+    "full_name": "Harriet Fakeness",
+    "annual_income": 117880,
+    "loan_amount": 374948,
+    "ltv": 0.94,
+    "property_value": 397857,
+    "application_date": "2025-12-02"
+  },
+  {
+    "applicant_id": "SYN-0246",
+    "full_name": "Bethan Testwell",
+    "annual_income": 78153,
+    "loan_amount": 260463,
+    "ltv": 0.7,
+    "property_value": 369549,
+    "application_date": "2025-07-18"
+  },
+  {
+    "applicant_id": "SYN-0247",
+    "full_name": "Tracey Fictworth",
+    "annual_income": 26028,
+    "loan_amount": 94970,
+    "ltv": 0.62,
+    "property_value": 153266,
+    "application_date": "2025-04-09"
+  },
+  {
+    "applicant_id": "SYN-0248",
+    "full_name": "Abbie Mockingley",
+    "annual_income": 69131,
+    "loan_amount": 266941,
+    "ltv": 0.69,
+    "property_value": 389428,
+    "application_date": "2026-02-20"
+  },
+  {
+    "applicant_id": "SYN-0249",
+    "full_name": "Kenneth Fakeley",
+    "annual_income": 94177,
+    "loan_amount": 410951,
+    "ltv": 0.66,
+    "property_value": 619817,
+    "application_date": "2026-04-26"
+  },
+  {
+    "applicant_id": "SYN-0250",
+    "full_name": "Gerald Examplar",
+    "annual_income": 30350,
+    "loan_amount": 128046,
+    "ltv": 0.73,
+    "property_value": 174476,
+    "application_date": "2025-02-20"
+  },
+  {
+    "applicant_id": "SYN-0251",
+    "full_name": "Bethan Sandboxe",
+    "annual_income": 85230,
+    "loan_amount": 411291,
+    "ltv": 0.65,
+    "property_value": 632667,
+    "application_date": "2025-10-22"
+  },
+  {
+    "applicant_id": "SYN-0252",
+    "full_name": "Adam Testwell",
+    "annual_income": 103611,
+    "loan_amount": 363463,
+    "ltv": 0.69,
+    "property_value": 527244,
+    "application_date": "2025-11-19"
+  },
+  {
+    "applicant_id": "SYN-0253",
+    "full_name": "Adrian Fakeley",
+    "annual_income": 137821,
+    "loan_amount": 635254,
+    "ltv": 0.92,
+    "property_value": 693946,
+    "application_date": "2025-09-08"
+  },
+  {
+    "applicant_id": "SYN-0254",
+    "full_name": "Gillian Syntheton",
+    "annual_income": 29681,
+    "loan_amount": 115265,
+    "ltv": 0.72,
+    "property_value": 159880,
+    "application_date": "2026-02-05"
+  },
+  {
+    "applicant_id": "SYN-0255",
+    "full_name": "Yvonne Sandboxe",
+    "annual_income": 103746,
+    "loan_amount": 510851,
+    "ltv": 0.84,
+    "property_value": 606993,
+    "application_date": "2025-12-16"
+  },
+  {
+    "applicant_id": "SYN-0256",
+    "full_name": "Angela Stubbington",
+    "annual_income": 130795,
+    "loan_amount": 471417,
+    "ltv": 0.95,
+    "property_value": 496343,
+    "application_date": "2025-12-28"
+  },
+  {
+    "applicant_id": "SYN-0257",
+    "full_name": "Leanne Syntheton",
+    "annual_income": 33979,
+    "loan_amount": 118057,
+    "ltv": 0.8,
+    "property_value": 147539,
+    "application_date": "2025-08-18"
+  },
+  {
+    "applicant_id": "SYN-0258",
+    "full_name": "Lorraine Demoman",
+    "annual_income": 111655,
+    "loan_amount": 400893,
+    "ltv": 0.94,
+    "property_value": 425450,
+    "application_date": "2025-08-31"
+  },
+  {
+    "applicant_id": "SYN-0259",
+    "full_name": "Sam Mockford",
+    "annual_income": 55976,
+    "loan_amount": 168835,
+    "ltv": 0.9,
+    "property_value": 187018,
+    "application_date": "2026-04-01"
+  },
+  {
+    "applicant_id": "SYN-0260",
+    "full_name": "Alice Syntheton",
+    "annual_income": 139356,
+    "loan_amount": 587081,
+    "ltv": 0.77,
+    "property_value": 758645,
+    "application_date": "2025-09-03"
+  },
+  {
+    "applicant_id": "SYN-0261",
+    "full_name": "Louis Fictworth",
+    "annual_income": 121677,
+    "loan_amount": 559437,
+    "ltv": 0.81,
+    "property_value": 688561,
+    "application_date": "2026-06-08"
+  },
+  {
+    "applicant_id": "SYN-0262",
+    "full_name": "Martyn Dummerton",
+    "annual_income": 48705,
+    "loan_amount": 208128,
+    "ltv": 0.82,
+    "property_value": 254649,
+    "application_date": "2026-04-17"
+  },
+  {
+    "applicant_id": "SYN-0263",
+    "full_name": "Maria Mockford",
+    "annual_income": 102345,
+    "loan_amount": 326923,
+    "ltv": 0.82,
+    "property_value": 398876,
+    "application_date": "2025-09-28"
+  },
+  {
+    "applicant_id": "SYN-0264",
+    "full_name": "Shane Fictworth",
+    "annual_income": 60492,
+    "loan_amount": 276885,
+    "ltv": 0.61,
+    "property_value": 452665,
+    "application_date": "2025-05-01"
+  },
+  {
+    "applicant_id": "SYN-0265",
+    "full_name": "Martin Pretendley",
+    "annual_income": 115991,
+    "loan_amount": 378458,
+    "ltv": 0.92,
+    "property_value": 412098,
+    "application_date": "2026-03-10"
+  },
+  {
+    "applicant_id": "SYN-0266",
+    "full_name": "Damian Fictworth",
+    "annual_income": 117973,
+    "loan_amount": 451955,
+    "ltv": 0.67,
+    "property_value": 674280,
+    "application_date": "2025-04-29"
+  },
+  {
+    "applicant_id": "SYN-0267",
+    "full_name": "Stanley Fakeley",
+    "annual_income": 89579,
+    "loan_amount": 358638,
+    "ltv": 0.7,
+    "property_value": 515741,
+    "application_date": "2026-07-16"
+  },
+  {
+    "applicant_id": "SYN-0268",
+    "full_name": "Jonathan Syntheton",
+    "annual_income": 53681,
+    "loan_amount": 259177,
+    "ltv": 0.93,
+    "property_value": 278545,
+    "application_date": "2025-01-24"
+  },
+  {
+    "applicant_id": "SYN-0269",
+    "full_name": "Dale Sandboxe",
+    "annual_income": 117853,
+    "loan_amount": 558717,
+    "ltv": 0.88,
+    "property_value": 633839,
+    "application_date": "2025-07-18"
+  },
+  {
+    "applicant_id": "SYN-0270",
+    "full_name": "Carl Examplar",
+    "annual_income": 146208,
+    "loan_amount": 460643,
+    "ltv": 0.86,
+    "property_value": 533181,
+    "application_date": "2026-03-05"
+  },
+  {
+    "applicant_id": "SYN-0271",
+    "full_name": "Philip Demoman",
+    "annual_income": 132740,
+    "loan_amount": 577770,
+    "ltv": 0.84,
+    "property_value": 691078,
+    "application_date": "2025-08-09"
+  },
+  {
+    "applicant_id": "SYN-0272",
+    "full_name": "Mohamed Samplesmith",
+    "annual_income": 146781,
+    "loan_amount": 688621,
+    "ltv": 0.8,
+    "property_value": 866125,
+    "application_date": "2025-11-08"
+  },
+  {
+    "applicant_id": "SYN-0273",
+    "full_name": "Elizabeth Fakeness",
+    "annual_income": 123636,
+    "loan_amount": 468475,
+    "ltv": 0.69,
+    "property_value": 676439,
+    "application_date": "2024-12-01"
+  },
+  {
+    "applicant_id": "SYN-0274",
+    "full_name": "Emily Notrealson",
+    "annual_income": 79609,
+    "loan_amount": 297512,
+    "ltv": 0.86,
+    "property_value": 345080,
+    "application_date": "2025-07-22"
+  },
+  {
+    "applicant_id": "SYN-0275",
+    "full_name": "Fiona Fictworth",
+    "annual_income": 96619,
+    "loan_amount": 363486,
+    "ltv": 0.82,
+    "property_value": 441396,
+    "application_date": "2026-08-23"
+  },
+  {
+    "applicant_id": "SYN-0276",
+    "full_name": "Michael Pretendley",
+    "annual_income": 34201,
+    "loan_amount": 148763,
+    "ltv": 0.77,
+    "property_value": 194457,
+    "application_date": "2026-06-20"
+  },
+  {
+    "applicant_id": "SYN-0277",
+    "full_name": "Beverley Sandboxe",
+    "annual_income": 139964,
+    "loan_amount": 590671,
+    "ltv": 0.83,
+    "property_value": 714511,
+    "application_date": "2025-07-16"
+  },
+  {
+    "applicant_id": "SYN-0278",
+    "full_name": "Thomas Fakeness",
+    "annual_income": 139195,
+    "loan_amount": 612758,
+    "ltv": 0.83,
+    "property_value": 740731,
+    "application_date": "2026-08-21"
+  },
+  {
+    "applicant_id": "SYN-0279",
+    "full_name": "Joel Stubbington",
+    "annual_income": 38320,
+    "loan_amount": 118435,
+    "ltv": 0.61,
+    "property_value": 193198,
+    "application_date": "2026-04-08"
+  },
+  {
+    "applicant_id": "SYN-0280",
+    "full_name": "Samantha Dummerton",
+    "annual_income": 35220,
+    "loan_amount": 112506,
+    "ltv": 0.91,
+    "property_value": 123560,
+    "application_date": "2025-11-05"
+  },
+  {
+    "applicant_id": "SYN-0281",
+    "full_name": "Janice Mockingley",
+    "annual_income": 70940,
+    "loan_amount": 277183,
+    "ltv": 0.83,
+    "property_value": 332087,
+    "application_date": "2026-05-11"
+  },
+  {
+    "applicant_id": "SYN-0282",
+    "full_name": "Gerald Mockingley",
+    "annual_income": 96983,
+    "loan_amount": 434924,
+    "ltv": 0.65,
+    "property_value": 664937,
+    "application_date": "2025-10-01"
+  },
+  {
+    "applicant_id": "SYN-0283",
+    "full_name": "Abdul Mockingley",
+    "annual_income": 105841,
+    "loan_amount": 338484,
+    "ltv": 0.77,
+    "property_value": 438865,
+    "application_date": "2025-08-24"
+  },
+  {
+    "applicant_id": "SYN-0284",
+    "full_name": "Matthew Fictworth",
+    "annual_income": 143083,
+    "loan_amount": 701542,
+    "ltv": 0.61,
+    "property_value": 1147340,
+    "application_date": "2025-07-22"
+  },
+  {
+    "applicant_id": "SYN-0285",
+    "full_name": "Aimee Fictworth",
+    "annual_income": 48477,
+    "loan_amount": 188419,
+    "ltv": 0.93,
+    "property_value": 202016,
+    "application_date": "2026-02-14"
+  },
+  {
+    "applicant_id": "SYN-0286",
+    "full_name": "Carol Fictworth",
+    "annual_income": 33022,
+    "loan_amount": 163850,
+    "ltv": 0.73,
+    "property_value": 224893,
+    "application_date": "2026-03-18"
+  },
+  {
+    "applicant_id": "SYN-0287",
+    "full_name": "Jade Fakeness",
+    "annual_income": 27936,
+    "loan_amount": 106053,
+    "ltv": 0.67,
+    "property_value": 159135,
+    "application_date": "2026-08-04"
+  },
+  {
+    "applicant_id": "SYN-0288",
+    "full_name": "Brenda Placeholder",
+    "annual_income": 144388,
+    "loan_amount": 678056,
+    "ltv": 0.76,
+    "property_value": 893177,
+    "application_date": "2025-11-02"
+  },
+  {
+    "applicant_id": "SYN-0289",
+    "full_name": "Lisa Mockford",
+    "annual_income": 104109,
+    "loan_amount": 445481,
+    "ltv": 0.94,
+    "property_value": 473975,
+    "application_date": "2025-12-14"
+  },
+  {
+    "applicant_id": "SYN-0290",
+    "full_name": "Cheryl Placeholder",
+    "annual_income": 123126,
+    "loan_amount": 451505,
+    "ltv": 0.95,
+    "property_value": 477234,
+    "application_date": "2024-11-06"
+  },
+  {
+    "applicant_id": "SYN-0291",
+    "full_name": "Carly Placeholder",
+    "annual_income": 28992,
+    "loan_amount": 135092,
+    "ltv": 0.79,
+    "property_value": 170147,
+    "application_date": "2025-08-19"
+  },
+  {
+    "applicant_id": "SYN-0292",
+    "full_name": "Bethany Dummerton",
+    "annual_income": 126568,
+    "loan_amount": 599855,
+    "ltv": 0.71,
+    "property_value": 838963,
+    "application_date": "2025-02-24"
+  },
+  {
+    "applicant_id": "SYN-0293",
+    "full_name": "Elliot Dummerton",
+    "annual_income": 123369,
+    "loan_amount": 592302,
+    "ltv": 0.6,
+    "property_value": 985540,
+    "application_date": "2025-07-15"
+  },
+  {
+    "applicant_id": "SYN-0294",
+    "full_name": "Phillip Fakeley",
+    "annual_income": 149437,
+    "loan_amount": 487162,
+    "ltv": 0.69,
+    "property_value": 708363,
+    "application_date": "2025-09-07"
+  },
+  {
+    "applicant_id": "SYN-0295",
+    "full_name": "Tom Testwell",
+    "annual_income": 34408,
+    "loan_amount": 148715,
+    "ltv": 0.61,
+    "property_value": 244186,
+    "application_date": "2026-04-13"
+  },
+  {
+    "applicant_id": "SYN-0296",
+    "full_name": "Jessica Pretendley",
+    "annual_income": 66955,
+    "loan_amount": 306652,
+    "ltv": 0.68,
+    "property_value": 448797,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0297",
+    "full_name": "Emily Mockingley",
+    "annual_income": 22068,
+    "loan_amount": 73895,
+    "ltv": 0.62,
+    "property_value": 119506,
+    "application_date": "2025-04-15"
+  },
+  {
+    "applicant_id": "SYN-0298",
+    "full_name": "Jonathan Sandboxe",
+    "annual_income": 88955,
+    "loan_amount": 287084,
+    "ltv": 0.62,
+    "property_value": 461368,
+    "application_date": "2025-09-18"
+  },
+  {
+    "applicant_id": "SYN-0299",
+    "full_name": "Sheila Sandboxe",
+    "annual_income": 121976,
+    "loan_amount": 454248,
+    "ltv": 0.81,
+    "property_value": 562339,
+    "application_date": "2024-11-24"
+  },
+  {
+    "applicant_id": "SYN-0300",
+    "full_name": "Bruce Syntheton",
+    "annual_income": 86039,
+    "loan_amount": 296241,
+    "ltv": 0.82,
+    "property_value": 363358,
+    "application_date": "2025-03-26"
+  },
+  {
+    "applicant_id": "SYN-0301",
+    "full_name": "Brian Stubbington",
+    "annual_income": 80036,
+    "loan_amount": 343089,
+    "ltv": 0.61,
+    "property_value": 561610,
+    "application_date": "2026-04-28"
+  },
+  {
+    "applicant_id": "SYN-0302",
+    "full_name": "Naomi Stubbington",
+    "annual_income": 131057,
+    "loan_amount": 498441,
+    "ltv": 0.84,
+    "property_value": 593287,
+    "application_date": "2024-11-15"
+  },
+  {
+    "applicant_id": "SYN-0303",
+    "full_name": "Robert Samplesmith",
+    "annual_income": 113375,
+    "loan_amount": 546400,
+    "ltv": 0.63,
+    "property_value": 873232,
+    "application_date": "2026-08-26"
+  },
+  {
+    "applicant_id": "SYN-0304",
+    "full_name": "Marc Notrealson",
+    "annual_income": 62219,
+    "loan_amount": 262352,
+    "ltv": 0.62,
+    "property_value": 421118,
+    "application_date": "2026-06-08"
+  },
+  {
+    "applicant_id": "SYN-0305",
+    "full_name": "Brenda Pretendley",
+    "annual_income": 101830,
+    "loan_amount": 434422,
+    "ltv": 0.79,
+    "property_value": 548565,
+    "application_date": "2025-02-03"
+  },
+  {
+    "applicant_id": "SYN-0306",
+    "full_name": "Malcolm Sandboxe",
+    "annual_income": 69925,
+    "loan_amount": 348874,
+    "ltv": 0.79,
+    "property_value": 444032,
+    "application_date": "2025-09-20"
+  },
+  {
+    "applicant_id": "SYN-0307",
+    "full_name": "Geoffrey Fakeness",
+    "annual_income": 86263,
+    "loan_amount": 363241,
+    "ltv": 0.63,
+    "property_value": 572292,
+    "application_date": "2025-11-24"
+  },
+  {
+    "applicant_id": "SYN-0308",
+    "full_name": "Charlie Placeholder",
+    "annual_income": 131777,
+    "loan_amount": 567883,
+    "ltv": 0.91,
+    "property_value": 625975,
+    "application_date": "2025-09-14"
+  },
+  {
+    "applicant_id": "SYN-0309",
+    "full_name": "Douglas Pretendley",
+    "annual_income": 76370,
+    "loan_amount": 298080,
+    "ltv": 0.68,
+    "property_value": 438371,
+    "application_date": "2026-04-17"
+  },
+  {
+    "applicant_id": "SYN-0310",
+    "full_name": "Mohammed Fakeness",
+    "annual_income": 128451,
+    "loan_amount": 501858,
+    "ltv": 0.75,
+    "property_value": 673096,
+    "application_date": "2025-12-24"
+  },
+  {
+    "applicant_id": "SYN-0311",
+    "full_name": "Geoffrey Fictworth",
+    "annual_income": 60966,
+    "loan_amount": 234934,
+    "ltv": 0.83,
+    "property_value": 282105,
+    "application_date": "2026-04-25"
+  },
+  {
+    "applicant_id": "SYN-0312",
+    "full_name": "Ben Samplesmith",
+    "annual_income": 144989,
+    "loan_amount": 479229,
+    "ltv": 0.92,
+    "property_value": 519183,
+    "application_date": "2026-09-05"
+  },
+  {
+    "applicant_id": "SYN-0313",
+    "full_name": "Raymond Fakeness",
+    "annual_income": 31957,
+    "loan_amount": 149033,
+    "ltv": 0.63,
+    "property_value": 235577,
+    "application_date": "2025-12-04"
+  },
+  {
+    "applicant_id": "SYN-0314",
+    "full_name": "Graeme Mockford",
+    "annual_income": 117594,
+    "loan_amount": 526538,
+    "ltv": 0.88,
+    "property_value": 595551,
+    "application_date": "2025-12-02"
+  },
+  {
+    "applicant_id": "SYN-0315",
+    "full_name": "Nicola Fakeness",
+    "annual_income": 96869,
+    "loan_amount": 475942,
+    "ltv": 0.8,
+    "property_value": 597475,
+    "application_date": "2025-07-27"
+  },
+  {
+    "applicant_id": "SYN-0316",
+    "full_name": "Joe Mockingley",
+    "annual_income": 73845,
+    "loan_amount": 273758,
+    "ltv": 0.83,
+    "property_value": 328693,
+    "application_date": "2024-12-11"
+  },
+  {
+    "applicant_id": "SYN-0317",
+    "full_name": "Hollie Syntheton",
+    "annual_income": 133782,
+    "loan_amount": 646393,
+    "ltv": 0.62,
+    "property_value": 1045933,
+    "application_date": "2026-06-02"
+  },
+  {
+    "applicant_id": "SYN-0318",
+    "full_name": "Norman Placeholder",
+    "annual_income": 98696,
+    "loan_amount": 357763,
+    "ltv": 0.64,
+    "property_value": 562290,
+    "application_date": "2024-12-29"
+  },
+  {
+    "applicant_id": "SYN-0319",
+    "full_name": "Josh Fakeness",
+    "annual_income": 40280,
+    "loan_amount": 173747,
+    "ltv": 0.68,
+    "property_value": 256081,
+    "application_date": "2026-06-16"
+  },
+  {
+    "applicant_id": "SYN-0320",
+    "full_name": "Grace Notrealson",
+    "annual_income": 65890,
+    "loan_amount": 309073,
+    "ltv": 0.73,
+    "property_value": 424174,
+    "application_date": "2026-05-15"
+  },
+  {
+    "applicant_id": "SYN-0321",
+    "full_name": "Anna Testwell",
+    "annual_income": 95248,
+    "loan_amount": 328826,
+    "ltv": 0.75,
+    "property_value": 438324,
+    "application_date": "2026-04-29"
+  },
+  {
+    "applicant_id": "SYN-0322",
+    "full_name": "Denis Notrealson",
+    "annual_income": 99822,
+    "loan_amount": 484952,
+    "ltv": 0.89,
+    "property_value": 544699,
+    "application_date": "2025-11-01"
+  },
+  {
+    "applicant_id": "SYN-0323",
+    "full_name": "Irene Syntheton",
+    "annual_income": 23794,
+    "loan_amount": 79968,
+    "ltv": 0.85,
+    "property_value": 94531,
+    "application_date": "2025-07-09"
+  },
+  {
+    "applicant_id": "SYN-0324",
+    "full_name": "Kathleen Dummerton",
+    "annual_income": 140787,
+    "loan_amount": 518047,
+    "ltv": 0.6,
+    "property_value": 860347,
+    "application_date": "2026-01-22"
+  },
+  {
+    "applicant_id": "SYN-0325",
+    "full_name": "James Testwell",
+    "annual_income": 94228,
+    "loan_amount": 406565,
+    "ltv": 0.62,
+    "property_value": 651176,
+    "application_date": "2026-06-15"
+  },
+  {
+    "applicant_id": "SYN-0326",
+    "full_name": "Wendy Mockingley",
+    "annual_income": 32026,
+    "loan_amount": 143868,
+    "ltv": 0.68,
+    "property_value": 213044,
+    "application_date": "2025-01-01"
+  },
+  {
+    "applicant_id": "SYN-0327",
+    "full_name": "Linda Pretendley",
+    "annual_income": 79460,
+    "loan_amount": 292555,
+    "ltv": 0.73,
+    "property_value": 401025,
+    "application_date": "2026-01-14"
+  },
+  {
+    "applicant_id": "SYN-0328",
+    "full_name": "Kelly Mockford",
+    "annual_income": 121821,
+    "loan_amount": 594829,
+    "ltv": 0.81,
+    "property_value": 735557,
+    "application_date": "2026-03-06"
+  },
+  {
+    "applicant_id": "SYN-0329",
+    "full_name": "Tracy Samplesmith",
+    "annual_income": 40392,
+    "loan_amount": 133892,
+    "ltv": 0.82,
+    "property_value": 164034,
+    "application_date": "2025-02-20"
+  },
+  {
+    "applicant_id": "SYN-0330",
+    "full_name": "Zoe Sandboxe",
+    "annual_income": 55665,
+    "loan_amount": 216327,
+    "ltv": 0.75,
+    "property_value": 289051,
+    "application_date": "2026-09-06"
+  },
+  {
+    "applicant_id": "SYN-0331",
+    "full_name": "Mathew Fakeness",
+    "annual_income": 74287,
+    "loan_amount": 263446,
+    "ltv": 0.86,
+    "property_value": 304833,
+    "application_date": "2025-12-31"
+  },
+  {
+    "applicant_id": "SYN-0332",
+    "full_name": "Shannon Stubbington",
+    "annual_income": 65242,
+    "loan_amount": 251823,
+    "ltv": 0.7,
+    "property_value": 360192,
+    "application_date": "2026-04-23"
+  },
+  {
+    "applicant_id": "SYN-0333",
+    "full_name": "Natalie Demoman",
+    "annual_income": 89066,
+    "loan_amount": 386036,
+    "ltv": 0.62,
+    "property_value": 626788,
+    "application_date": "2025-08-24"
+  },
+  {
+    "applicant_id": "SYN-0334",
+    "full_name": "Jenna Syntheton",
+    "annual_income": 149033,
+    "loan_amount": 625737,
+    "ltv": 0.6,
+    "property_value": 1038239,
+    "application_date": "2025-04-27"
+  },
+  {
+    "applicant_id": "SYN-0335",
+    "full_name": "Duncan Notrealson",
+    "annual_income": 143905,
+    "loan_amount": 492510,
+    "ltv": 0.65,
+    "property_value": 760009,
+    "application_date": "2026-06-02"
+  },
+  {
+    "applicant_id": "SYN-0336",
+    "full_name": "Nicholas Mockingley",
+    "annual_income": 57938,
+    "loan_amount": 211836,
+    "ltv": 0.6,
+    "property_value": 351475,
+    "application_date": "2025-05-04"
+  },
+  {
+    "applicant_id": "SYN-0337",
+    "full_name": "Barbara Examplar",
+    "annual_income": 43028,
+    "loan_amount": 140201,
+    "ltv": 0.79,
+    "property_value": 178281,
+    "application_date": "2025-04-09"
+  },
+  {
+    "applicant_id": "SYN-0338",
+    "full_name": "Gillian Fictworth",
+    "annual_income": 85570,
+    "loan_amount": 352330,
+    "ltv": 0.83,
+    "property_value": 422551,
+    "application_date": "2025-11-28"
+  },
+  {
+    "applicant_id": "SYN-0339",
+    "full_name": "Aimee Mockingley",
+    "annual_income": 29447,
+    "loan_amount": 111726,
+    "ltv": 0.86,
+    "property_value": 129957,
+    "application_date": "2025-07-15"
+  },
+  {
+    "applicant_id": "SYN-0340",
+    "full_name": "Matthew Pretendley",
+    "annual_income": 22456,
+    "loan_amount": 88016,
+    "ltv": 0.63,
+    "property_value": 140320,
+    "application_date": "2025-10-05"
+  },
+  {
+    "applicant_id": "SYN-0341",
+    "full_name": "Victor Mockingley",
+    "annual_income": 95465,
+    "loan_amount": 368358,
+    "ltv": 0.74,
+    "property_value": 496742,
+    "application_date": "2025-02-24"
+  },
+  {
+    "applicant_id": "SYN-0342",
+    "full_name": "Phillip Pretendley",
+    "annual_income": 57947,
+    "loan_amount": 187189,
+    "ltv": 0.61,
+    "property_value": 308232,
+    "application_date": "2025-06-27"
+  },
+  {
+    "applicant_id": "SYN-0343",
+    "full_name": "Garry Fictworth",
+    "annual_income": 42527,
+    "loan_amount": 195737,
+    "ltv": 0.82,
+    "property_value": 239773,
+    "application_date": "2025-06-17"
+  },
+  {
+    "applicant_id": "SYN-0344",
+    "full_name": "Jodie Mockingley",
+    "annual_income": 31551,
+    "loan_amount": 122210,
+    "ltv": 0.64,
+    "property_value": 191837,
+    "application_date": "2026-03-01"
+  },
+  {
+    "applicant_id": "SYN-0345",
+    "full_name": "Martyn Syntheton",
+    "annual_income": 97184,
+    "loan_amount": 369387,
+    "ltv": 0.63,
+    "property_value": 588640,
+    "application_date": "2025-11-18"
+  },
+  {
+    "applicant_id": "SYN-0346",
+    "full_name": "Georgia Fakeley",
+    "annual_income": 117754,
+    "loan_amount": 433220,
+    "ltv": 0.72,
+    "property_value": 604571,
+    "application_date": "2026-08-24"
+  },
+  {
+    "applicant_id": "SYN-0347",
+    "full_name": "Graham Placeholder",
+    "annual_income": 30011,
+    "loan_amount": 120673,
+    "ltv": 0.64,
+    "property_value": 188578,
+    "application_date": "2025-04-08"
+  },
+  {
+    "applicant_id": "SYN-0348",
+    "full_name": "Jane Dummerton",
+    "annual_income": 138741,
+    "loan_amount": 631612,
+    "ltv": 0.72,
+    "property_value": 873738,
+    "application_date": "2025-10-01"
+  },
+  {
+    "applicant_id": "SYN-0349",
+    "full_name": "Cameron Fakeley",
+    "annual_income": 50968,
+    "loan_amount": 163383,
+    "ltv": 0.69,
+    "property_value": 236928,
+    "application_date": "2026-02-22"
+  },
+  {
+    "applicant_id": "SYN-0350",
+    "full_name": "Leah Samplesmith",
+    "annual_income": 98957,
+    "loan_amount": 327126,
+    "ltv": 0.87,
+    "property_value": 377873,
+    "application_date": "2026-03-09"
+  },
+  {
+    "applicant_id": "SYN-0351",
+    "full_name": "Lucy Sandboxe",
+    "annual_income": 43218,
+    "loan_amount": 211880,
+    "ltv": 0.82,
+    "property_value": 258459,
+    "application_date": "2026-05-06"
+  },
+  {
+    "applicant_id": "SYN-0352",
+    "full_name": "Colin Pretendley",
+    "annual_income": 118886,
+    "loan_amount": 490699,
+    "ltv": 0.8,
+    "property_value": 611224,
+    "application_date": "2025-05-15"
+  },
+  {
+    "applicant_id": "SYN-0353",
+    "full_name": "Carol Sandboxe",
+    "annual_income": 133278,
+    "loan_amount": 658653,
+    "ltv": 0.71,
+    "property_value": 926834,
+    "application_date": "2026-02-23"
+  },
+  {
+    "applicant_id": "SYN-0354",
+    "full_name": "Stewart Notrealson",
+    "annual_income": 28950,
+    "loan_amount": 114001,
+    "ltv": 0.82,
+    "property_value": 138859,
+    "application_date": "2026-02-03"
+  },
+  {
+    "applicant_id": "SYN-0355",
+    "full_name": "Laura Syntheton",
+    "annual_income": 97518,
+    "loan_amount": 303510,
+    "ltv": 0.78,
+    "property_value": 390332,
+    "application_date": "2025-09-20"
+  },
+  {
+    "applicant_id": "SYN-0356",
+    "full_name": "Melanie Syntheton",
+    "annual_income": 80521,
+    "loan_amount": 314340,
+    "ltv": 0.62,
+    "property_value": 507072,
+    "application_date": "2025-06-20"
+  },
+  {
+    "applicant_id": "SYN-0357",
+    "full_name": "Georgina Samplesmith",
+    "annual_income": 30057,
+    "loan_amount": 128924,
+    "ltv": 0.94,
+    "property_value": 136851,
+    "application_date": "2025-06-10"
+  },
+  {
+    "applicant_id": "SYN-0358",
+    "full_name": "Rita Mockford",
+    "annual_income": 100610,
+    "loan_amount": 421371,
+    "ltv": 0.73,
+    "property_value": 573630,
+    "application_date": "2025-09-06"
+  },
+  {
+    "applicant_id": "SYN-0359",
+    "full_name": "Stewart Placeholder",
+    "annual_income": 78947,
+    "loan_amount": 380375,
+    "ltv": 0.8,
+    "property_value": 475421,
+    "application_date": "2025-04-15"
+  },
+  {
+    "applicant_id": "SYN-0360",
+    "full_name": "Trevor Mockford",
+    "annual_income": 62143,
+    "loan_amount": 261623,
+    "ltv": 0.78,
+    "property_value": 337370,
+    "application_date": "2026-03-16"
+  },
+  {
+    "applicant_id": "SYN-0361",
+    "full_name": "Guy Pretendley",
+    "annual_income": 79050,
+    "loan_amount": 253514,
+    "ltv": 0.91,
+    "property_value": 277157,
+    "application_date": "2025-01-11"
+  },
+  {
+    "applicant_id": "SYN-0362",
+    "full_name": "Paula Fakeley",
+    "annual_income": 148763,
+    "loan_amount": 658816,
+    "ltv": 0.78,
+    "property_value": 848342,
+    "application_date": "2026-08-26"
+  },
+  {
+    "applicant_id": "SYN-0363",
+    "full_name": "Hollie Sandboxe",
+    "annual_income": 25130,
+    "loan_amount": 87842,
+    "ltv": 0.75,
+    "property_value": 116623,
+    "application_date": "2025-02-27"
+  },
+  {
+    "applicant_id": "SYN-0364",
+    "full_name": "Robin Fictworth",
+    "annual_income": 88690,
+    "loan_amount": 358795,
+    "ltv": 0.66,
+    "property_value": 547310,
+    "application_date": "2026-03-28"
+  },
+  {
+    "applicant_id": "SYN-0365",
+    "full_name": "Martyn Pretendley",
+    "annual_income": 140315,
+    "loan_amount": 500333,
+    "ltv": 0.74,
+    "property_value": 673333,
+    "application_date": "2026-03-18"
+  },
+  {
+    "applicant_id": "SYN-0366",
+    "full_name": "Judith Pretendley",
+    "annual_income": 108984,
+    "loan_amount": 457272,
+    "ltv": 0.88,
+    "property_value": 521863,
+    "application_date": "2025-12-17"
+  },
+  {
+    "applicant_id": "SYN-0367",
+    "full_name": "Oliver Demoman",
+    "annual_income": 28639,
+    "loan_amount": 104801,
+    "ltv": 0.8,
+    "property_value": 131778,
+    "application_date": "2026-06-03"
+  },
+  {
+    "applicant_id": "SYN-0368",
+    "full_name": "Bryan Dummerton",
+    "annual_income": 57243,
+    "loan_amount": 200579,
+    "ltv": 0.9,
+    "property_value": 223350,
+    "application_date": "2025-03-29"
+  },
+  {
+    "applicant_id": "SYN-0369",
+    "full_name": "Antony Fictworth",
+    "annual_income": 63694,
+    "loan_amount": 201464,
+    "ltv": 0.83,
+    "property_value": 242067,
+    "application_date": "2025-05-21"
+  },
+  {
+    "applicant_id": "SYN-0370",
+    "full_name": "Lindsey Demoman",
+    "annual_income": 60662,
+    "loan_amount": 299391,
+    "ltv": 0.84,
+    "property_value": 354532,
+    "application_date": "2025-11-02"
+  },
+  {
+    "applicant_id": "SYN-0371",
+    "full_name": "Henry Syntheton",
+    "annual_income": 36901,
+    "loan_amount": 154618,
+    "ltv": 0.93,
+    "property_value": 166560,
+    "application_date": "2024-11-19"
+  },
+  {
+    "applicant_id": "SYN-0372",
+    "full_name": "Alexander Dummerton",
+    "annual_income": 93259,
+    "loan_amount": 350034,
+    "ltv": 0.88,
+    "property_value": 399089,
+    "application_date": "2025-11-16"
+  },
+  {
+    "applicant_id": "SYN-0373",
+    "full_name": "Amelia Samplesmith",
+    "annual_income": 107833,
+    "loan_amount": 475076,
+    "ltv": 0.93,
+    "property_value": 510018,
+    "application_date": "2026-08-22"
+  },
+  {
+    "applicant_id": "SYN-0374",
+    "full_name": "Kim Testwell",
+    "annual_income": 104675,
+    "loan_amount": 454385,
+    "ltv": 0.78,
+    "property_value": 584064,
+    "application_date": "2026-06-29"
+  },
+  {
+    "applicant_id": "SYN-0375",
+    "full_name": "Abigail Pretendley",
+    "annual_income": 67526,
+    "loan_amount": 244291,
+    "ltv": 0.93,
+    "property_value": 261859,
+    "application_date": "2024-12-30"
+  },
+  {
+    "applicant_id": "SYN-0376",
+    "full_name": "James Dummerton",
+    "annual_income": 144212,
+    "loan_amount": 653614,
+    "ltv": 0.67,
+    "property_value": 979635,
+    "application_date": "2025-12-01"
+  },
+  {
+    "applicant_id": "SYN-0377",
+    "full_name": "Pauline Fakeness",
+    "annual_income": 40308,
+    "loan_amount": 127145,
+    "ltv": 0.9,
+    "property_value": 141974,
+    "application_date": "2025-09-24"
+  },
+  {
+    "applicant_id": "SYN-0378",
+    "full_name": "Maurice Mockford",
+    "annual_income": 86543,
+    "loan_amount": 393057,
+    "ltv": 0.89,
+    "property_value": 440503,
+    "application_date": "2025-02-26"
+  },
+  {
+    "applicant_id": "SYN-0379",
+    "full_name": "Lee Dummerton",
+    "annual_income": 106760,
+    "loan_amount": 392186,
+    "ltv": 0.87,
+    "property_value": 451719,
+    "application_date": "2025-04-16"
+  },
+  {
+    "applicant_id": "SYN-0380",
+    "full_name": "Lesley Fakeley",
+    "annual_income": 98282,
+    "loan_amount": 368896,
+    "ltv": 0.66,
+    "property_value": 561668,
+    "application_date": "2025-01-07"
+  },
+  {
+    "applicant_id": "SYN-0381",
+    "full_name": "Gary Examplar",
+    "annual_income": 114526,
+    "loan_amount": 443828,
+    "ltv": 0.74,
+    "property_value": 596703,
+    "application_date": "2025-07-30"
+  },
+  {
+    "applicant_id": "SYN-0382",
+    "full_name": "Liam Sandboxe",
+    "annual_income": 147085,
+    "loan_amount": 571925,
+    "ltv": 0.7,
+    "property_value": 817357,
+    "application_date": "2025-12-03"
+  },
+  {
+    "applicant_id": "SYN-0383",
+    "full_name": "Joyce Stubbington",
+    "annual_income": 50671,
+    "loan_amount": 206131,
+    "ltv": 0.71,
+    "property_value": 291017,
+    "application_date": "2024-11-25"
+  },
+  {
+    "applicant_id": "SYN-0384",
+    "full_name": "Kieran Sandboxe",
+    "annual_income": 138485,
+    "loan_amount": 646756,
+    "ltv": 0.73,
+    "property_value": 887494,
+    "application_date": "2026-05-19"
+  },
+  {
+    "applicant_id": "SYN-0385",
+    "full_name": "Leon Mockingley",
+    "annual_income": 80513,
+    "loan_amount": 365439,
+    "ltv": 0.87,
+    "property_value": 418916,
+    "application_date": "2024-12-17"
+  },
+  {
+    "applicant_id": "SYN-0386",
+    "full_name": "Frederick Dummerton",
+    "annual_income": 146650,
+    "loan_amount": 487482,
+    "ltv": 0.67,
+    "property_value": 727700,
+    "application_date": "2025-01-10"
+  },
+  {
+    "applicant_id": "SYN-0387",
+    "full_name": "Helen Fictworth",
+    "annual_income": 134426,
+    "loan_amount": 470492,
+    "ltv": 0.82,
+    "property_value": 570700,
+    "application_date": "2025-12-24"
+  },
+  {
+    "applicant_id": "SYN-0388",
+    "full_name": "Marian Fakeness",
+    "annual_income": 92684,
+    "loan_amount": 451240,
+    "ltv": 0.85,
+    "property_value": 531502,
+    "application_date": "2025-03-27"
+  },
+  {
+    "applicant_id": "SYN-0389",
+    "full_name": "Zoe Sandboxe",
+    "annual_income": 57363,
+    "loan_amount": 181712,
+    "ltv": 0.66,
+    "property_value": 276954,
+    "application_date": "2025-07-16"
+  },
+  {
+    "applicant_id": "SYN-0390",
+    "full_name": "Angela Samplesmith",
+    "annual_income": 138660,
+    "loan_amount": 558343,
+    "ltv": 0.89,
+    "property_value": 626742,
+    "application_date": "2025-05-18"
+  },
+  {
+    "applicant_id": "SYN-0391",
+    "full_name": "Joan Fictworth",
+    "annual_income": 144048,
+    "loan_amount": 694457,
+    "ltv": 0.89,
+    "property_value": 783948,
+    "application_date": "2026-09-23"
+  },
+  {
+    "applicant_id": "SYN-0392",
+    "full_name": "Stewart Fictworth",
+    "annual_income": 141958,
+    "loan_amount": 433446,
+    "ltv": 0.62,
+    "property_value": 700643,
+    "application_date": "2025-11-27"
+  },
+  {
+    "applicant_id": "SYN-0393",
+    "full_name": "Darren Examplar",
+    "annual_income": 50903,
+    "loan_amount": 192023,
+    "ltv": 0.63,
+    "property_value": 305496,
+    "application_date": "2025-12-26"
+  },
+  {
+    "applicant_id": "SYN-0394",
+    "full_name": "Nigel Pretendley",
+    "annual_income": 23694,
+    "loan_amount": 86184,
+    "ltv": 0.63,
+    "property_value": 135791,
+    "application_date": "2026-08-24"
+  },
+  {
+    "applicant_id": "SYN-0395",
+    "full_name": "Gavin Stubbington",
+    "annual_income": 123727,
+    "loan_amount": 407321,
+    "ltv": 0.61,
+    "property_value": 664032,
+    "application_date": "2026-01-06"
+  },
+  {
+    "applicant_id": "SYN-0396",
+    "full_name": "Arthur Stubbington",
+    "annual_income": 111235,
+    "loan_amount": 518602,
+    "ltv": 0.87,
+    "property_value": 599128,
+    "application_date": "2026-01-31"
+  },
+  {
+    "applicant_id": "SYN-0397",
+    "full_name": "Charles Testwell",
+    "annual_income": 78799,
+    "loan_amount": 333375,
+    "ltv": 0.92,
+    "property_value": 363530,
+    "application_date": "2025-04-07"
+  },
+  {
+    "applicant_id": "SYN-0398",
+    "full_name": "Lynn Mockingley",
+    "annual_income": 53544,
+    "loan_amount": 183726,
+    "ltv": 0.65,
+    "property_value": 281645,
+    "application_date": "2024-12-10"
+  },
+  {
+    "applicant_id": "SYN-0399",
+    "full_name": "Paul Fakeness",
+    "annual_income": 34573,
+    "loan_amount": 157388,
+    "ltv": 0.68,
+    "property_value": 230378,
+    "application_date": "2025-08-05"
+  },
+  {
+    "applicant_id": "SYN-0400",
+    "full_name": "Charlene Sandboxe",
+    "annual_income": 26258,
+    "loan_amount": 91296,
+    "ltv": 0.82,
+    "property_value": 110845,
+    "application_date": "2025-12-15"
+  },
+  {
+    "applicant_id": "SYN-0401",
+    "full_name": "Iain Testwell",
+    "annual_income": 28232,
+    "loan_amount": 90955,
+    "ltv": 0.92,
+    "property_value": 99209,
+    "application_date": "2024-11-10"
+  },
+  {
+    "applicant_id": "SYN-0402",
+    "full_name": "Gerard Dummerton",
+    "annual_income": 102831,
+    "loan_amount": 414486,
+    "ltv": 0.68,
+    "property_value": 605373,
+    "application_date": "2026-03-06"
+  },
+  {
+    "applicant_id": "SYN-0403",
+    "full_name": "Rita Examplar",
+    "annual_income": 58177,
+    "loan_amount": 224475,
+    "ltv": 0.82,
+    "property_value": 275367,
+    "application_date": "2026-06-22"
+  },
+  {
+    "applicant_id": "SYN-0404",
+    "full_name": "Steven Samplesmith",
+    "annual_income": 94798,
+    "loan_amount": 363374,
+    "ltv": 0.83,
+    "property_value": 436470,
+    "application_date": "2026-02-20"
+  },
+  {
+    "applicant_id": "SYN-0405",
+    "full_name": "Arthur Testwell",
+    "annual_income": 88614,
+    "loan_amount": 438578,
+    "ltv": 0.62,
+    "property_value": 703201,
+    "application_date": "2026-05-02"
+  },
+  {
+    "applicant_id": "SYN-0406",
+    "full_name": "Kayleigh Demoman",
+    "annual_income": 71177,
+    "loan_amount": 337853,
+    "ltv": 0.62,
+    "property_value": 549143,
+    "application_date": "2025-12-12"
+  },
+  {
+    "applicant_id": "SYN-0407",
+    "full_name": "Joe Fictworth",
+    "annual_income": 148586,
+    "loan_amount": 556693,
+    "ltv": 0.86,
+    "property_value": 646145,
+    "application_date": "2025-08-17"
+  },
+  {
+    "applicant_id": "SYN-0408",
+    "full_name": "Paige Fakeness",
+    "annual_income": 123352,
+    "loan_amount": 386723,
+    "ltv": 0.68,
+    "property_value": 565059,
+    "application_date": "2025-03-27"
+  },
+  {
+    "applicant_id": "SYN-0409",
+    "full_name": "Kieran Dummerton",
+    "annual_income": 121122,
+    "loan_amount": 504329,
+    "ltv": 0.86,
+    "property_value": 583149,
+    "application_date": "2026-07-27"
+  },
+  {
+    "applicant_id": "SYN-0410",
+    "full_name": "Patrick Fakeley",
+    "annual_income": 25811,
+    "loan_amount": 95619,
+    "ltv": 0.72,
+    "property_value": 133083,
+    "application_date": "2024-12-07"
+  },
+  {
+    "applicant_id": "SYN-0411",
+    "full_name": "Roger Stubbington",
+    "annual_income": 128840,
+    "loan_amount": 587289,
+    "ltv": 0.76,
+    "property_value": 770096,
+    "application_date": "2026-05-06"
+  },
+  {
+    "applicant_id": "SYN-0412",
+    "full_name": "Marilyn Sandboxe",
+    "annual_income": 102802,
+    "loan_amount": 345883,
+    "ltv": 0.65,
+    "property_value": 534431,
+    "application_date": "2026-04-05"
+  },
+  {
+    "applicant_id": "SYN-0413",
+    "full_name": "Shirley Placeholder",
+    "annual_income": 24847,
+    "loan_amount": 89123,
+    "ltv": 0.62,
+    "property_value": 144837,
+    "application_date": "2026-08-05"
+  },
+  {
+    "applicant_id": "SYN-0414",
+    "full_name": "Jennifer Demoman",
+    "annual_income": 136102,
+    "loan_amount": 419713,
+    "ltv": 0.93,
+    "property_value": 452921,
+    "application_date": "2025-01-14"
+  },
+  {
+    "applicant_id": "SYN-0415",
+    "full_name": "Charlene Mockford",
+    "annual_income": 149646,
+    "loan_amount": 692983,
+    "ltv": 0.77,
+    "property_value": 905044,
+    "application_date": "2025-05-22"
+  },
+  {
+    "applicant_id": "SYN-0416",
+    "full_name": "Sophie Mockford",
+    "annual_income": 118735,
+    "loan_amount": 509824,
+    "ltv": 0.7,
+    "property_value": 728176,
+    "application_date": "2026-08-21"
+  },
+  {
+    "applicant_id": "SYN-0417",
+    "full_name": "Donna Fictworth",
+    "annual_income": 133481,
+    "loan_amount": 575498,
+    "ltv": 0.7,
+    "property_value": 827310,
+    "application_date": "2025-11-07"
+  },
+  {
+    "applicant_id": "SYN-0418",
+    "full_name": "Jennifer Demoman",
+    "annual_income": 77272,
+    "loan_amount": 369281,
+    "ltv": 0.86,
+    "property_value": 429318,
+    "application_date": "2024-12-14"
+  },
+  {
+    "applicant_id": "SYN-0419",
+    "full_name": "Simon Stubbington",
+    "annual_income": 64438,
+    "loan_amount": 318804,
+    "ltv": 0.77,
+    "property_value": 412067,
+    "application_date": "2026-07-14"
+  },
+  {
+    "applicant_id": "SYN-0420",
+    "full_name": "Brandon Samplesmith",
+    "annual_income": 68148,
+    "loan_amount": 330424,
+    "ltv": 0.78,
+    "property_value": 422674,
+    "application_date": "2025-12-22"
+  },
+  {
+    "applicant_id": "SYN-0421",
+    "full_name": "Richard Fakeley",
+    "annual_income": 115300,
+    "loan_amount": 443790,
+    "ltv": 0.75,
+    "property_value": 591158,
+    "application_date": "2024-12-22"
+  },
+  {
+    "applicant_id": "SYN-0422",
+    "full_name": "Frances Pretendley",
+    "annual_income": 91496,
+    "loan_amount": 328245,
+    "ltv": 0.64,
+    "property_value": 516182,
+    "application_date": "2026-06-06"
+  },
+  {
+    "applicant_id": "SYN-0423",
+    "full_name": "Beverley Mockingley",
+    "annual_income": 106628,
+    "loan_amount": 382931,
+    "ltv": 0.76,
+    "property_value": 506475,
+    "application_date": "2025-12-10"
+  },
+  {
+    "applicant_id": "SYN-0424",
+    "full_name": "Michael Mockford",
+    "annual_income": 41842,
+    "loan_amount": 183248,
+    "ltv": 0.72,
+    "property_value": 253441,
+    "application_date": "2026-09-30"
+  },
+  {
+    "applicant_id": "SYN-0425",
+    "full_name": "Ellie Mockingley",
+    "annual_income": 115265,
+    "loan_amount": 546365,
+    "ltv": 0.72,
+    "property_value": 755278,
+    "application_date": "2026-05-26"
+  },
+  {
+    "applicant_id": "SYN-0426",
+    "full_name": "Melissa Mockford",
+    "annual_income": 55986,
+    "loan_amount": 239561,
+    "ltv": 0.88,
+    "property_value": 273154,
+    "application_date": "2024-11-15"
+  },
+  {
+    "applicant_id": "SYN-0427",
+    "full_name": "Clive Fakeley",
+    "annual_income": 29835,
+    "loan_amount": 129555,
+    "ltv": 0.74,
+    "property_value": 174562,
+    "application_date": "2025-09-18"
+  },
+  {
+    "applicant_id": "SYN-0428",
+    "full_name": "Naomi Sandboxe",
+    "annual_income": 144884,
+    "loan_amount": 443676,
+    "ltv": 0.9,
+    "property_value": 494603,
+    "application_date": "2025-08-29"
+  },
+  {
+    "applicant_id": "SYN-0429",
+    "full_name": "Ricky Fictworth",
+    "annual_income": 24561,
+    "loan_amount": 79884,
+    "ltv": 0.68,
+    "property_value": 117029,
+    "application_date": "2025-02-24"
+  },
+  {
+    "applicant_id": "SYN-0430",
+    "full_name": "Fiona Dummerton",
+    "annual_income": 67467,
+    "loan_amount": 254061,
+    "ltv": 0.8,
+    "property_value": 318159,
+    "application_date": "2025-08-24"
+  },
+  {
+    "applicant_id": "SYN-0431",
+    "full_name": "Abigail Sandboxe",
+    "annual_income": 109006,
+    "loan_amount": 425107,
+    "ltv": 0.73,
+    "property_value": 582468,
+    "application_date": "2026-09-08"
+  },
+  {
+    "applicant_id": "SYN-0432",
+    "full_name": "Pauline Fictworth",
+    "annual_income": 120019,
+    "loan_amount": 378512,
+    "ltv": 0.65,
+    "property_value": 583949,
+    "application_date": "2025-06-23"
+  },
+  {
+    "applicant_id": "SYN-0433",
+    "full_name": "Brett Fakeness",
+    "annual_income": 72171,
+    "loan_amount": 261892,
+    "ltv": 0.7,
+    "property_value": 375450,
+    "application_date": "2025-06-03"
+  },
+  {
+    "applicant_id": "SYN-0434",
+    "full_name": "Stuart Demoman",
+    "annual_income": 23396,
+    "loan_amount": 104612,
+    "ltv": 0.77,
+    "property_value": 135042,
+    "application_date": "2026-06-21"
+  },
+  {
+    "applicant_id": "SYN-0435",
+    "full_name": "Hugh Notrealson",
+    "annual_income": 139739,
+    "loan_amount": 576192,
+    "ltv": 0.69,
+    "property_value": 833103,
+    "application_date": "2025-08-07"
+  },
+  {
+    "applicant_id": "SYN-0436",
+    "full_name": "Olivia Syntheton",
+    "annual_income": 112279,
+    "loan_amount": 437051,
+    "ltv": 0.95,
+    "property_value": 460671,
+    "application_date": "2025-05-11"
+  },
+  {
+    "applicant_id": "SYN-0437",
+    "full_name": "Joanne Fakeness",
+    "annual_income": 110961,
+    "loan_amount": 536270,
+    "ltv": 0.77,
+    "property_value": 694722,
+    "application_date": "2026-05-21"
+  },
+  {
+    "applicant_id": "SYN-0438",
+    "full_name": "Georgina Sandboxe",
+    "annual_income": 37790,
+    "loan_amount": 177827,
+    "ltv": 0.76,
+    "property_value": 234534,
+    "application_date": "2024-11-13"
+  },
+  {
+    "applicant_id": "SYN-0439",
+    "full_name": "Craig Pretendley",
+    "annual_income": 31506,
+    "loan_amount": 145590,
+    "ltv": 0.94,
+    "property_value": 155106,
+    "application_date": "2025-05-30"
+  },
+  {
+    "applicant_id": "SYN-0440",
+    "full_name": "Brandon Syntheton",
+    "annual_income": 107535,
+    "loan_amount": 397326,
+    "ltv": 0.62,
+    "property_value": 638040,
+    "application_date": "2025-01-08"
+  },
+  {
+    "applicant_id": "SYN-0441",
+    "full_name": "Sophie Fakeley",
+    "annual_income": 136828,
+    "loan_amount": 492569,
+    "ltv": 0.66,
+    "property_value": 751868,
+    "application_date": "2026-06-26"
+  },
+  {
+    "applicant_id": "SYN-0442",
+    "full_name": "David Placeholder",
+    "annual_income": 124031,
+    "loan_amount": 461765,
+    "ltv": 0.68,
+    "property_value": 680583,
+    "application_date": "2026-01-29"
+  },
+  {
+    "applicant_id": "SYN-0443",
+    "full_name": "Joanna Testwell",
+    "annual_income": 123817,
+    "loan_amount": 405842,
+    "ltv": 0.88,
+    "property_value": 462957,
+    "application_date": "2025-09-12"
+  },
+  {
+    "applicant_id": "SYN-0444",
+    "full_name": "Alexander Dummerton",
+    "annual_income": 67303,
+    "loan_amount": 276484,
+    "ltv": 0.73,
+    "property_value": 379203,
+    "application_date": "2025-02-28"
+  },
+  {
+    "applicant_id": "SYN-0445",
+    "full_name": "Linda Demoman",
+    "annual_income": 100209,
+    "loan_amount": 477846,
+    "ltv": 0.62,
+    "property_value": 766993,
+    "application_date": "2026-01-04"
+  },
+  {
+    "applicant_id": "SYN-0446",
+    "full_name": "Dawn Mockingley",
+    "annual_income": 113969,
+    "loan_amount": 505765,
+    "ltv": 0.78,
+    "property_value": 645114,
+    "application_date": "2026-01-06"
+  },
+  {
+    "applicant_id": "SYN-0447",
+    "full_name": "Lee Pretendley",
+    "annual_income": 127916,
+    "loan_amount": 530826,
+    "ltv": 0.64,
+    "property_value": 824438,
+    "application_date": "2025-03-12"
+  },
+  {
+    "applicant_id": "SYN-0448",
+    "full_name": "Georgina Fictworth",
+    "annual_income": 104192,
+    "loan_amount": 328031,
+    "ltv": 0.76,
+    "property_value": 429899,
+    "application_date": "2025-01-19"
+  },
+  {
+    "applicant_id": "SYN-0449",
+    "full_name": "Gerard Fakeley",
+    "annual_income": 36821,
+    "loan_amount": 175118,
+    "ltv": 0.87,
+    "property_value": 200572,
+    "application_date": "2025-08-26"
+  },
+  {
+    "applicant_id": "SYN-0450",
+    "full_name": "Amelia Mockford",
+    "annual_income": 120634,
+    "loan_amount": 595031,
+    "ltv": 0.75,
+    "property_value": 791879,
+    "application_date": "2025-09-28"
+  },
+  {
+    "applicant_id": "SYN-0451",
+    "full_name": "Matthew Fakeley",
+    "annual_income": 128972,
+    "loan_amount": 418943,
+    "ltv": 0.65,
+    "property_value": 641021,
+    "application_date": "2026-09-11"
+  },
+  {
+    "applicant_id": "SYN-0452",
+    "full_name": "Tina Fictworth",
+    "annual_income": 41229,
+    "loan_amount": 150293,
+    "ltv": 0.85,
+    "property_value": 177177,
+    "application_date": "2026-05-10"
+  },
+  {
+    "applicant_id": "SYN-0453",
+    "full_name": "Carolyn Samplesmith",
+    "annual_income": 144188,
+    "loan_amount": 703898,
+    "ltv": 0.91,
+    "property_value": 770783,
+    "application_date": "2025-02-07"
+  },
+  {
+    "applicant_id": "SYN-0454",
+    "full_name": "Lynn Notrealson",
+    "annual_income": 52847,
+    "loan_amount": 179289,
+    "ltv": 0.93,
+    "property_value": 191810,
+    "application_date": "2024-10-27"
+  },
+  {
+    "applicant_id": "SYN-0455",
+    "full_name": "Jane Samplesmith",
+    "annual_income": 36406,
+    "loan_amount": 154727,
+    "ltv": 0.82,
+    "property_value": 189837,
+    "application_date": "2024-12-23"
+  },
+  {
+    "applicant_id": "SYN-0456",
+    "full_name": "Geoffrey Dummerton",
+    "annual_income": 85873,
+    "loan_amount": 367706,
+    "ltv": 0.81,
+    "property_value": 455571,
+    "application_date": "2025-09-12"
+  },
+  {
+    "applicant_id": "SYN-0457",
+    "full_name": "Terence Pretendley",
+    "annual_income": 42439,
+    "loan_amount": 183229,
+    "ltv": 0.85,
+    "property_value": 215002,
+    "application_date": "2026-01-22"
+  },
+  {
+    "applicant_id": "SYN-0458",
+    "full_name": "Carl Testwell",
+    "annual_income": 130432,
+    "loan_amount": 632316,
+    "ltv": 0.61,
+    "property_value": 1029130,
+    "application_date": "2025-10-08"
+  },
+  {
+    "applicant_id": "SYN-0459",
+    "full_name": "Iain Notrealson",
+    "annual_income": 30646,
+    "loan_amount": 94724,
+    "ltv": 0.82,
+    "property_value": 114885,
+    "application_date": "2025-10-15"
+  },
+  {
+    "applicant_id": "SYN-0460",
+    "full_name": "Abdul Testwell",
+    "annual_income": 105344,
+    "loan_amount": 360447,
+    "ltv": 0.8,
+    "property_value": 450419,
+    "application_date": "2025-08-10"
+  },
+  {
+    "applicant_id": "SYN-0461",
+    "full_name": "Pamela Syntheton",
+    "annual_income": 85278,
+    "loan_amount": 407458,
+    "ltv": 0.79,
+    "property_value": 515149,
+    "application_date": "2026-09-16"
+  },
+  {
+    "applicant_id": "SYN-0462",
+    "full_name": "Norman Demoman",
+    "annual_income": 83300,
+    "loan_amount": 290697,
+    "ltv": 0.88,
+    "property_value": 329375,
+    "application_date": "2025-09-08"
+  },
+  {
+    "applicant_id": "SYN-0463",
+    "full_name": "Jacob Fakeley",
+    "annual_income": 58985,
+    "loan_amount": 230460,
+    "ltv": 0.84,
+    "property_value": 274026,
+    "application_date": "2025-07-18"
+  },
+  {
+    "applicant_id": "SYN-0464",
+    "full_name": "June Pretendley",
+    "annual_income": 77619,
+    "loan_amount": 297377,
+    "ltv": 0.76,
+    "property_value": 389975,
+    "application_date": "2025-10-15"
+  },
+  {
+    "applicant_id": "SYN-0465",
+    "full_name": "Barry Pretendley",
+    "annual_income": 99516,
+    "loan_amount": 327143,
+    "ltv": 0.9,
+    "property_value": 362879,
+    "application_date": "2026-06-26"
+  },
+  {
+    "applicant_id": "SYN-0466",
+    "full_name": "Martyn Demoman",
+    "annual_income": 116233,
+    "loan_amount": 578381,
+    "ltv": 0.72,
+    "property_value": 802327,
+    "application_date": "2026-04-21"
+  },
+  {
+    "applicant_id": "SYN-0467",
+    "full_name": "Elizabeth Fakeness",
+    "annual_income": 37139,
+    "loan_amount": 167918,
+    "ltv": 0.78,
+    "property_value": 215212,
+    "application_date": "2025-06-17"
+  },
+  {
+    "applicant_id": "SYN-0468",
+    "full_name": "Kathleen Sandboxe",
+    "annual_income": 61827,
+    "loan_amount": 215373,
+    "ltv": 0.64,
+    "property_value": 335011,
+    "application_date": "2025-04-26"
+  },
+  {
+    "applicant_id": "SYN-0469",
+    "full_name": "Paul Demoman",
+    "annual_income": 52495,
+    "loan_amount": 172276,
+    "ltv": 0.62,
+    "property_value": 278894,
+    "application_date": "2025-05-07"
+  },
+  {
+    "applicant_id": "SYN-0470",
+    "full_name": "Joel Fakeley",
+    "annual_income": 133267,
+    "loan_amount": 563820,
+    "ltv": 0.69,
+    "property_value": 820825,
+    "application_date": "2026-06-07"
+  },
+  {
+    "applicant_id": "SYN-0471",
+    "full_name": "Rosemary Pretendley",
+    "annual_income": 126624,
+    "loan_amount": 462794,
+    "ltv": 0.8,
+    "property_value": 576913,
+    "application_date": "2026-09-30"
+  },
+  {
+    "applicant_id": "SYN-0472",
+    "full_name": "Wendy Sandboxe",
+    "annual_income": 44881,
+    "loan_amount": 203142,
+    "ltv": 0.77,
+    "property_value": 262324,
+    "application_date": "2026-06-26"
+  },
+  {
+    "applicant_id": "SYN-0473",
+    "full_name": "Katie Samplesmith",
+    "annual_income": 85373,
+    "loan_amount": 406218,
+    "ltv": 0.77,
+    "property_value": 524775,
+    "application_date": "2025-11-06"
+  },
+  {
+    "applicant_id": "SYN-0474",
+    "full_name": "Leigh Examplar",
+    "annual_income": 143893,
+    "loan_amount": 544849,
+    "ltv": 0.76,
+    "property_value": 716878,
+    "application_date": "2025-06-12"
+  },
+  {
+    "applicant_id": "SYN-0475",
+    "full_name": "Paige Syntheton",
+    "annual_income": 48199,
+    "loan_amount": 200830,
+    "ltv": 0.62,
+    "property_value": 325478,
+    "application_date": "2025-07-13"
+  },
+  {
+    "applicant_id": "SYN-0476",
+    "full_name": "Danny Stubbington",
+    "annual_income": 84866,
+    "loan_amount": 356016,
+    "ltv": 0.89,
+    "property_value": 397784,
+    "application_date": "2026-06-30"
+  },
+  {
+    "applicant_id": "SYN-0477",
+    "full_name": "Amelia Mockingley",
+    "annual_income": 57453,
+    "loan_amount": 234028,
+    "ltv": 0.9,
+    "property_value": 261043,
+    "application_date": "2025-04-06"
+  },
+  {
+    "applicant_id": "SYN-0478",
+    "full_name": "Jacqueline Demoman",
+    "annual_income": 37555,
+    "loan_amount": 178946,
+    "ltv": 0.85,
+    "property_value": 209385,
+    "application_date": "2025-04-02"
+  },
+  {
+    "applicant_id": "SYN-0479",
+    "full_name": "Victoria Placeholder",
+    "annual_income": 67964,
+    "loan_amount": 210042,
+    "ltv": 0.62,
+    "property_value": 339926,
+    "application_date": "2024-11-18"
+  },
+  {
+    "applicant_id": "SYN-0480",
+    "full_name": "Elaine Sandboxe",
+    "annual_income": 67516,
+    "loan_amount": 277251,
+    "ltv": 0.63,
+    "property_value": 443080,
+    "application_date": "2026-03-04"
+  },
+  {
+    "applicant_id": "SYN-0481",
+    "full_name": "Margaret Fakeness",
+    "annual_income": 120191,
+    "loan_amount": 492749,
+    "ltv": 0.89,
+    "property_value": 554361,
+    "application_date": "2025-07-20"
+  },
+  {
+    "applicant_id": "SYN-0482",
+    "full_name": "Cheryl Pretendley",
+    "annual_income": 36864,
+    "loan_amount": 182483,
+    "ltv": 0.74,
+    "property_value": 247312,
+    "application_date": "2026-05-05"
+  },
+  {
+    "applicant_id": "SYN-0483",
+    "full_name": "Naomi Placeholder",
+    "annual_income": 93116,
+    "loan_amount": 454210,
+    "ltv": 0.86,
+    "property_value": 525561,
+    "application_date": "2026-09-17"
+  },
+  {
+    "applicant_id": "SYN-0484",
+    "full_name": "Olivia Mockford",
+    "annual_income": 98966,
+    "loan_amount": 397670,
+    "ltv": 0.78,
+    "property_value": 513105,
+    "application_date": "2026-09-05"
+  },
+  {
+    "applicant_id": "SYN-0485",
+    "full_name": "Malcolm Stubbington",
+    "annual_income": 25100,
+    "loan_amount": 82179,
+    "ltv": 0.72,
+    "property_value": 114685,
+    "application_date": "2025-10-11"
+  },
+  {
+    "applicant_id": "SYN-0486",
+    "full_name": "Marie Dummerton",
+    "annual_income": 88069,
+    "loan_amount": 344700,
+    "ltv": 0.81,
+    "property_value": 424407,
+    "application_date": "2025-06-11"
+  },
+  {
+    "applicant_id": "SYN-0487",
+    "full_name": "Oliver Demoman",
+    "annual_income": 62987,
+    "loan_amount": 306289,
+    "ltv": 0.71,
+    "property_value": 430492,
+    "application_date": "2026-07-03"
+  },
+  {
+    "applicant_id": "SYN-0488",
+    "full_name": "Chloe Pretendley",
+    "annual_income": 149841,
+    "loan_amount": 634277,
+    "ltv": 0.89,
+    "property_value": 708760,
+    "application_date": "2024-12-28"
+  },
+  {
+    "applicant_id": "SYN-0489",
+    "full_name": "Caroline Syntheton",
+    "annual_income": 86494,
+    "loan_amount": 402766,
+    "ltv": 0.79,
+    "property_value": 512217,
+    "application_date": "2024-10-28"
+  },
+  {
+    "applicant_id": "SYN-0490",
+    "full_name": "Gareth Fakeness",
+    "annual_income": 82245,
+    "loan_amount": 380918,
+    "ltv": 0.73,
+    "property_value": 522575,
+    "application_date": "2025-08-06"
+  },
+  {
+    "applicant_id": "SYN-0491",
+    "full_name": "Abbie Testwell",
+    "annual_income": 148437,
+    "loan_amount": 568971,
+    "ltv": 0.71,
+    "property_value": 803987,
+    "application_date": "2026-09-09"
+  },
+  {
+    "applicant_id": "SYN-0492",
+    "full_name": "Keith Examplar",
+    "annual_income": 98238,
+    "loan_amount": 387960,
+    "ltv": 0.94,
+    "property_value": 413394,
+    "application_date": "2025-09-17"
+  },
+  {
+    "applicant_id": "SYN-0493",
+    "full_name": "Arthur Demoman",
+    "annual_income": 114555,
+    "loan_amount": 355431,
+    "ltv": 0.77,
+    "property_value": 462706,
+    "application_date": "2025-06-16"
+  },
+  {
+    "applicant_id": "SYN-0494",
+    "full_name": "Hazel Fakeness",
+    "annual_income": 39369,
+    "loan_amount": 182803,
+    "ltv": 0.68,
+    "property_value": 266956,
+    "application_date": "2025-07-28"
+  },
+  {
+    "applicant_id": "SYN-0495",
+    "full_name": "Jonathan Dummerton",
+    "annual_income": 45006,
+    "loan_amount": 136723,
+    "ltv": 0.71,
+    "property_value": 192624,
+    "application_date": "2026-06-17"
+  },
+  {
+    "applicant_id": "SYN-0496",
+    "full_name": "Frances Stubbington",
+    "annual_income": 74127,
+    "loan_amount": 324750,
+    "ltv": 0.74,
+    "property_value": 436708,
+    "application_date": "2026-06-22"
+  },
+  {
+    "applicant_id": "SYN-0497",
+    "full_name": "Jessica Dummerton",
+    "annual_income": 134401,
+    "loan_amount": 631248,
+    "ltv": 0.85,
+    "property_value": 738655,
+    "application_date": "2026-08-29"
+  },
+  {
+    "applicant_id": "SYN-0498",
+    "full_name": "Kayleigh Stubbington",
+    "annual_income": 87984,
+    "loan_amount": 300438,
+    "ltv": 0.71,
+    "property_value": 420919,
+    "application_date": "2026-03-14"
+  },
+  {
+    "applicant_id": "SYN-0499",
+    "full_name": "Holly Sandboxe",
+    "annual_income": 88875,
+    "loan_amount": 333606,
+    "ltv": 0.93,
+    "property_value": 356859,
+    "application_date": "2026-07-02"
+  },
+  {
+    "applicant_id": "SYN-0500",
+    "full_name": "Alan Notrealson",
+    "annual_income": 139553,
+    "loan_amount": 567458,
+    "ltv": 0.79,
+    "property_value": 717216,
+    "application_date": "2026-01-01"
+  }
+]
